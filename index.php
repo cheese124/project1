@@ -15,7 +15,7 @@ class Inport
 
     protected function __construct()
     {
- 	   $lines =file('hd2013.csv');
+ 	   	$lines =file('hd2013.csv');
 		$file = fopen('hd2013.csv', 'r');
 		while (($line = fgetcsv($file)) !== FALSE) 
 		{
