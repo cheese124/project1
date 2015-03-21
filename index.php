@@ -24,9 +24,7 @@ class Import
 		}
 		fclose($datafile);
 		
-		echo '<br/>';
-		echo '<br/>';
-		
+		/*
 		//imports varlist
  	   	$varlist =file('varlist.csv');
 		$varlistfile = fopen('varlist.csv', 'r');
@@ -36,9 +34,6 @@ class Import
 		}
 		fclose($varlistfile);
 		
-		echo '<br/>';
-		echo '<br/>';
-		
 		//imports description
  	   	$description =file('description.csv');
 		$descriptionfile = fopen('description.csv', 'r');
@@ -47,9 +42,6 @@ class Import
   		print_r($description);
 		}
 		fclose($descriptionfile);
-		
-		echo '<br/>';
-		echo '<br/>';
 
 		//imports frequencies
  	   	$frequencies =file('frequencies.csv');
@@ -59,6 +51,7 @@ class Import
   		print_r($frequencies);
 		}
 		fclose($frequenciesfile);
+		*/
     }
 
 }
