@@ -1,0 +1,1382 @@
+varnumber,varname,codevalue,valuelabel,frequency,percent
+10016,STABBR,AL,Alabama,93,1.2
+10016,STABBR,AK,Alaska,12,0.15
+10016,STABBR,AZ,Arizona,146,1.88
+10016,STABBR,AR,Arkansas,88,1.13
+10016,STABBR,CA,California,789,10.16
+10016,STABBR,CO,Colorado,141,1.81
+10016,STABBR,CT,Connecticut,100,1.29
+10016,STABBR,DE,Delaware,21,0.27
+10016,STABBR,DC,District of Columbia,25,0.32
+10016,STABBR,FL,Florida,402,5.17
+10016,STABBR,GA,Georgia,199,2.56
+10016,STABBR,HI,Hawaii,28,0.36
+10016,STABBR,ID,Idaho,44,0.57
+10016,STABBR,IL,Illinois,320,4.12
+10016,STABBR,IN,Indiana,139,1.79
+10016,STABBR,IA,Iowa,96,1.24
+10016,STABBR,KS,Kansas,96,1.24
+10016,STABBR,KY,Kentucky,117,1.51
+10016,STABBR,LA,Louisiana,128,1.65
+10016,STABBR,ME,Maine,43,0.55
+10016,STABBR,MD,Maryland,105,1.35
+10016,STABBR,MA,Massachusetts,197,2.54
+10016,STABBR,MI,Michigan,204,2.63
+10016,STABBR,MN,Minnesota,149,1.92
+10016,STABBR,MS,Mississippi,64,0.82
+10016,STABBR,MO,Missouri,226,2.91
+10016,STABBR,MT,Montana,31,0.4
+10016,STABBR,NE,Nebraska,53,0.68
+10016,STABBR,NV,Nevada,53,0.68
+10016,STABBR,NH,New Hampshire,44,0.57
+10016,STABBR,NJ,New Jersey,173,2.23
+10016,STABBR,NM,New Mexico,52,0.67
+10016,STABBR,NY,New York,481,6.19
+10016,STABBR,NC,North Carolina,199,2.56
+10016,STABBR,ND,North Dakota,30,0.39
+10016,STABBR,OH,Ohio,383,4.93
+10016,STABBR,OK,Oklahoma,149,1.92
+10016,STABBR,OR,Oregon,99,1.27
+10016,STABBR,PA,Pennsylvania,406,5.23
+10016,STABBR,RI,Rhode Island,24,0.31
+10016,STABBR,SC,South Carolina,113,1.45
+10016,STABBR,SD,South Dakota,31,0.4
+10016,STABBR,TN,Tennessee,190,2.45
+10016,STABBR,TX,Texas,479,6.17
+10016,STABBR,UT,Utah,88,1.13
+10016,STABBR,VT,Vermont,28,0.36
+10016,STABBR,VA,Virginia,178,2.29
+10016,STABBR,WA,Washington,128,1.65
+10016,STABBR,WV,West Virginia,79,1.02
+10016,STABBR,WI,Wisconsin,127,1.63
+10016,STABBR,WY,Wyoming,12,0.15
+10016,STABBR,AS,American Samoa,1,0.01
+10016,STABBR,FM,Federated States of Micronesia,1,0.01
+10016,STABBR,GU,Guam,3,0.04
+10016,STABBR,MH,Marshall Islands,1,0.01
+10016,STABBR,MP,Northern Marianas,1,0.01
+10016,STABBR,PW,Palau,1,0.01
+10016,STABBR,PR,Puerto Rico,158,2.03
+10016,STABBR,VI,Virgin Islands,1,0.01
+10026,FIPS,1,Alabama,93,1.2
+10026,FIPS,2,Alaska,12,0.15
+10026,FIPS,4,Arizona,146,1.88
+10026,FIPS,5,Arkansas,88,1.13
+10026,FIPS,6,California,789,10.16
+10026,FIPS,8,Colorado,141,1.81
+10026,FIPS,9,Connecticut,100,1.29
+10026,FIPS,10,Delaware,21,0.27
+10026,FIPS,11,District of Columbia,25,0.32
+10026,FIPS,12,Florida,402,5.17
+10026,FIPS,13,Georgia,199,2.56
+10026,FIPS,15,Hawaii,28,0.36
+10026,FIPS,16,Idaho,44,0.57
+10026,FIPS,17,Illinois,320,4.12
+10026,FIPS,18,Indiana,139,1.79
+10026,FIPS,19,Iowa,96,1.24
+10026,FIPS,20,Kansas,96,1.24
+10026,FIPS,21,Kentucky,117,1.51
+10026,FIPS,22,Louisiana,128,1.65
+10026,FIPS,23,Maine,43,0.55
+10026,FIPS,24,Maryland,105,1.35
+10026,FIPS,25,Massachusetts,197,2.54
+10026,FIPS,26,Michigan,204,2.63
+10026,FIPS,27,Minnesota,149,1.92
+10026,FIPS,28,Mississippi,64,0.82
+10026,FIPS,29,Missouri,226,2.91
+10026,FIPS,30,Montana,31,0.4
+10026,FIPS,31,Nebraska,53,0.68
+10026,FIPS,32,Nevada,53,0.68
+10026,FIPS,33,New Hampshire,44,0.57
+10026,FIPS,34,New Jersey,173,2.23
+10026,FIPS,35,New Mexico,52,0.67
+10026,FIPS,36,New York,481,6.19
+10026,FIPS,37,North Carolina,199,2.56
+10026,FIPS,38,North Dakota,30,0.39
+10026,FIPS,39,Ohio,383,4.93
+10026,FIPS,40,Oklahoma,149,1.92
+10026,FIPS,41,Oregon,99,1.27
+10026,FIPS,42,Pennsylvania,406,5.23
+10026,FIPS,44,Rhode Island,24,0.31
+10026,FIPS,45,South Carolina,113,1.45
+10026,FIPS,46,South Dakota,31,0.4
+10026,FIPS,47,Tennessee,190,2.45
+10026,FIPS,48,Texas,479,6.17
+10026,FIPS,49,Utah,88,1.13
+10026,FIPS,50,Vermont,28,0.36
+10026,FIPS,51,Virginia,178,2.29
+10026,FIPS,53,Washington,128,1.65
+10026,FIPS,54,West Virginia,79,1.02
+10026,FIPS,55,Wisconsin,127,1.63
+10026,FIPS,56,Wyoming,12,0.15
+10026,FIPS,60,American Samoa,1,0.01
+10026,FIPS,64,Federated States of Micronesia,1,0.01
+10026,FIPS,66,Guam,3,0.04
+10026,FIPS,68,Marshall Islands,1,0.01
+10026,FIPS,69,Northern Marianas,1,0.01
+10026,FIPS,70,Palau,1,0.01
+10026,FIPS,72,Puerto Rico,158,2.03
+10026,FIPS,78,Virgin Islands,1,0.01
+10031,OBEREG,0,US Service schools,7,0.09
+10031,OBEREG,1,New England CT ME MA NH RI VT,435,5.6
+10031,OBEREG,2,Mid East DE DC MD NJ NY PA,1208,15.55
+10031,OBEREG,3,Great Lakes IL IN MI OH WI,1172,15.09
+10031,OBEREG,4,Plains IA KS MN MO NE ND SD,681,8.77
+10031,OBEREG,5,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,1850,23.81
+10031,OBEREG,6,Southwest AZ NM OK TX,826,10.63
+10031,OBEREG,7,Rocky Mountains CO ID MT UT WY,315,4.05
+10031,OBEREG,8,Far West AK CA HI NV OR WA,1108,14.26
+10031,OBEREG,9,Outlying areas AS FM GU MH MP PR PW VI,167,2.15
+10076,OPEFLAG,1,Participates in Title IV federal financial aid programs,7441,95.78
+10076,OPEFLAG,2,Branch campus of a main campus that participates in Title IV,98,1.26
+10076,OPEFLAG,3,Deferment only - limited participation,26,0.33
+10076,OPEFLAG,5,"Not currently participating in Title IV, has an OPE ID number",167,2.15
+10076,OPEFLAG,6,"Not currently participating in Title IV, does not have OPE ID number",34,0.44
+10076,OPEFLAG,7,Stopped participating during the survey year,3,0.04
+10086,SECTOR,0,Administrative Unit,81,1.04
+10086,SECTOR,1,"Public, 4-year or above",724,9.32
+10086,SECTOR,2,"Private not-for-profit, 4-year or above",1693,21.79
+10086,SECTOR,3,"Private for-profit, 4-year or above",835,10.75
+10086,SECTOR,4,"Public, 2-year",1047,13.48
+10086,SECTOR,5,"Private not-for-profit, 2-year",172,2.21
+10086,SECTOR,6,"Private for-profit, 2-year",1083,13.94
+10086,SECTOR,7,"Public, less-than 2-year",268,3.45
+10086,SECTOR,8,"Private not-for-profit, less-than 2-year",99,1.27
+10086,SECTOR,9,"Private for-profit, less-than 2-year",1762,22.68
+10086,SECTOR,99,Sector unknown (not active),5,0.06
+10091,ICLEVEL,1,Four or more years,3299,42.46
+10091,ICLEVEL,2,At least 2 but less than 4 years,2333,30.03
+10091,ICLEVEL,3,Less than 2 years (below associate),2132,27.44
+10091,ICLEVEL,-3,{Not available},5,0.06
+10096,CONTROL,1,Public,2108,27.13
+10096,CONTROL,2,Private not-for-profit,1969,25.34
+10096,CONTROL,3,Private for-profit,3687,47.46
+10096,CONTROL,-3,{Not available},5,0.06
+10101,HLOFFER,1,Award of less than one academic year,203,2.61
+10101,HLOFFER,2,"At least 1, but less than 2 academic yrs",1929,24.83
+10101,HLOFFER,3,Associate's degree,1479,19.04
+10101,HLOFFER,4,"At least 2, but less than 4 academic yrs",854,10.99
+10101,HLOFFER,5,Bachelor's degree,1013,13.04
+10101,HLOFFER,6,Postbaccalaureate certificate,45,0.58
+10101,HLOFFER,7,Master's degree,934,12.02
+10101,HLOFFER,8,Post-master's certificate,192,2.47
+10101,HLOFFER,9,Doctor's degree,1115,14.35
+10101,HLOFFER,-3,{Not available},5,0.06
+10106,UGOFFER,1,Undergraduate degree or certificate offering,7419,95.49
+10106,UGOFFER,2,No undergraduate offering,345,4.44
+10106,UGOFFER,-3,{Not available},5,0.06
+10111,GROFFER,1,Graduate degree or certificate offering,2286,29.42
+10111,GROFFER,2,No graduate offering,5478,70.51
+10111,GROFFER,-3,{Not available},5,0.06
+10122,HDEGOFR1,11,Doctor's degree - research/scholarship and professional practice,442,5.69
+10122,HDEGOFR1,12,Doctor's degree - research/scholarship,325,4.18
+10122,HDEGOFR1,13,Doctor's degree -  professional practice,265,3.41
+10122,HDEGOFR1,14,Doctor's degree - other,83,1.07
+10122,HDEGOFR1,20,Master's degree,1123,14.45
+10122,HDEGOFR1,30,Bachelor's degree,1046,13.46
+10122,HDEGOFR1,40,Associate's degree,1785,22.98
+10122,HDEGOFR1,0,Non-degree granting,2695,34.69
+10122,HDEGOFR1,-3,{Not available},5,0.06
+10126,DEGGRANT,1,Degree-granting,5069,65.25
+10126,DEGGRANT,2,"Nondegree-granting, primarily postsecondary",2695,34.69
+10126,DEGGRANT,-3,{Not available},5,0.06
+10151,HBCU,1,Yes,100,1.29
+10151,HBCU,2,No,7669,98.71
+10156,HOSPITAL,1,Yes,84,1.08
+10156,HOSPITAL,2,No,3800,48.91
+10156,HOSPITAL,-1,Not reported,44,0.57
+10156,HOSPITAL,-2,Not applicable,3841,49.44
+10161,MEDICAL,1,Yes,182,2.34
+10161,MEDICAL,2,No,7330,94.35
+10161,MEDICAL,-1,Not reported,40,0.51
+10161,MEDICAL,-2,Not applicable,217,2.79
+10166,TRIBAL,1,Yes,34,0.44
+10166,TRIBAL,2,No,7735,99.56
+10176,LOCALE,11,City: Large,1835,23.62
+10176,LOCALE,12,City: Midsize,949,12.22
+10176,LOCALE,13,City: Small,1016,13.08
+10176,LOCALE,21,Suburb: Large,2060,26.52
+10176,LOCALE,22,Suburb: Midsize,223,2.87
+10176,LOCALE,23,Suburb: Small,139,1.79
+10176,LOCALE,31,Town: Fringe,129,1.66
+10176,LOCALE,32,Town: Distant,421,5.42
+10176,LOCALE,33,Town: Remote,404,5.2
+10176,LOCALE,41,Rural: Fringe,402,5.17
+10176,LOCALE,42,Rural: Distant,125,1.61
+10176,LOCALE,43,Rural: Remote,63,0.81
+10176,LOCALE,-3,{Not available},3,0.04
+10181,OPENPUBL,1,Institution is open to the public,7764,99.94
+10181,OPENPUBL,0,Institution is not open to the public,5,0.06
+10186,ACT,A,Active - institution active,7418,95.48
+10186,ACT,N,New (active) - added during the current year,182,2.34
+10186,ACT,R,Restore (active) - restored to the current universe,12,0.15
+10186,ACT,M,Closed in current year (active has data),31,0.4
+10186,ACT,C,Combined with other institution,68,0.88
+10186,ACT,D,Delete out of business,58,0.75
+10196,DEATHYR,2013,2013,157,2.02
+10196,DEATHYR,-2,Not applicable,7612,97.98
+10206,CYACTIVE,1,Yes,7643,98.38
+10206,CYACTIVE,3,"No, closed, combined, or out-of-scope",126,1.62
+10211,POSTSEC,1,Primarily postsecondary institution,7722,99.4
+10211,POSTSEC,2,Not primarily postsecondary,47,0.6
+10216,PSEFLAG,1,Active postsecondary institution,7586,97.64
+10216,PSEFLAG,2,Not primarily postsecondary or open to public,52,0.67
+10216,PSEFLAG,3,Not active,131,1.69
+10221,PSET4FLG,1,Title IV postsecondary institution,7432,95.66
+10221,PSET4FLG,2,Non-Title IV postsecondary institution,154,1.98
+,,,,,
+10221,PSET4FLG,3,Title IV NOT primarily postsecondary institution,45,0.58
+,,,,,
+10221,PSET4FLG,4,Non-Title IV NOT primarily postsecondary institution,2,0.03
+,,,,,
+10221,PSET4FLG,5,Title IV postsecondary institution that is NOT open to the public,1,0.01
+10221,PSET4FLG,6,Non-Title IV postsecondary institution that is NOT open to the public,4,0.05
+,,,,,
+10221,PSET4FLG,9,Institution is not active in current universe,131,1.69
+,,,,,
+15055,RPTMTH,1,Student charges for full academic year and fall GR/SFA/retention rate cohort,4406,56.71
+15055,RPTMTH,3,Student charges for full academic year and full-year GR/SFA/retention rate cohort,387,4.98
+15055,RPTMTH,2,Student charges by program and full-year GR/SFA/retention rate cohort,2740,35.27
+15055,RPTMTH,-1,Not reported,29,0.37
+15055,RPTMTH,-2,Not applicable,207,2.66
+15210,INSTCAT,1,"Degree-granting, graduate with no undergraduate degrees",323,4.16
+15210,INSTCAT,2,"Degree-granting, primarily baccalaureate or above",2192,28.21
+15210,INSTCAT,3,"Degree-granting, not primarily baccalaureate or above",645,8.3
+15210,INSTCAT,4,"Degree-granting, associate's and certificates",1729,22.26
+,,,,,
+15210,INSTCAT,5,"Nondegree-granting, above the baccalaureate",12,0.15
+15210,INSTCAT,6,"Nondegree-granting, sub-baccalaureate",2631,33.87
+15210,INSTCAT,-1,Not reported,31,0.4
+15210,INSTCAT,-2,Not applicable,206,2.65
+15215,CCBASIC,1,Associate's--Public Rural-serving Small,124,1.6
+15215,CCBASIC,2,Associate's--Public Rural-serving Medium,291,3.75
+15215,CCBASIC,3,Associate's--Public Rural-serving Large,129,1.66
+15215,CCBASIC,4,Associate's--Public Suburban-serving Single Campus,108,1.39
+15215,CCBASIC,5,Associate's--Public Suburban-serving Multicampus,100,1.29
+15215,CCBASIC,6,Associate's--Public Urban-serving Single Campus,31,0.4
+15215,CCBASIC,7,Associate's--Public Urban-serving Multicampus,126,1.62
+15215,CCBASIC,8,Associate's--Public Special Use,6,0.08
+15215,CCBASIC,9,Associate's--Private Not-for-profit,88,1.13
+15215,CCBASIC,10,Associate's--Private For-profit,627,8.07
+15215,CCBASIC,11,Associate's--Public 2-year colleges under 4-year universities,47,0.6
+15215,CCBASIC,12,Associate's--Public 4-year Primarily Associate's,41,0.53
+15215,CCBASIC,13,Associate's--Private Not-for-profit 4-year Primarily Associate's,17,0.22
+15215,CCBASIC,14,Associate's--Private For-profit 4-year Primarily Associate's,91,1.17
+15215,CCBASIC,15,Research Universities (very high research activity),108,1.39
+15215,CCBASIC,16,Research Universities (high research activity),99,1.27
+15215,CCBASIC,17,Doctoral/Research Universities,90,1.16
+15215,CCBASIC,18,Master's Colleges and Universities (larger programs),411,5.29
+15215,CCBASIC,19,Master's Colleges and Universities (medium programs),184,2.37
+15215,CCBASIC,20,Master's Colleges and Universities (smaller programs),125,1.61
+15215,CCBASIC,21,Baccalaureate Colleges--Arts & Sciences,264,3.4
+15215,CCBASIC,22,Baccalaureate Colleges--Diverse Fields,385,4.96
+15215,CCBASIC,23,Baccalaureate/Associate's Colleges,139,1.79
+15215,CCBASIC,24,"Theological seminaries, Bible colleges, and other faith-related institutions",285,3.67
+15215,CCBASIC,25,Medical schools and medical centers,53,0.68
+15215,CCBASIC,26,Other health professions schools,158,2.03
+15215,CCBASIC,27,Schools of engineering,7,0.09
+15215,CCBASIC,28,Other technology-related schools,56,0.72
+15215,CCBASIC,29,Schools of business and management,76,0.98
+15215,CCBASIC,30,"Schools of art, music, and design",129,1.66
+15215,CCBASIC,31,Schools of law,36,0.46
+15215,CCBASIC,32,Other special-focus institutions,20,0.26
+15215,CCBASIC,33,Tribal Colleges,33,0.42
+15215,CCBASIC,-3,"Not applicable, not in Carnegie universe (not accredited or nondegree-granting)",3285,42.28
+15216,CCIPUG,1,Associates,1638,21.08
+15216,CCIPUG,2,Associates Dominant,226,2.91
+15216,CCIPUG,3,"Arts & sciences focus, no graduate coexistence",95,1.22
+15216,CCIPUG,4,"Arts & sciences focus, some graduate coexistence",33,0.42
+15216,CCIPUG,5,"Arts & sciences focus, high graduate coexistence",27,0.35
+15216,CCIPUG,6,"Arts & sciences plus professions, no graduate coexistence",63,0.81
+15216,CCIPUG,7,"Arts & sciences plus professions, some graduate coexistence",91,1.17
+15216,CCIPUG,8,"Arts & sciences plus professions, high graduate coexistence",41,0.53
+15216,CCIPUG,9,"Balanced arts & sciences/professions, no graduate coexistence",97,1.25
+15216,CCIPUG,10,"Balanced arts & sciences/professions, some graduate coexistence",291,3.75
+15216,CCIPUG,11,"Balanced arts & sciences/professions, high graduate coexistence",96,1.24
+15216,CCIPUG,12,"Professions plus arts & sciences, no graduate coexistence",96,1.24
+15216,CCIPUG,13,"Professions plus arts & sciences, some graduate coexistence",357,4.6
+15216,CCIPUG,14,"Professions plus arts & sciences, high graduate coexistence",72,0.93
+15216,CCIPUG,15,"Professions focus, no graduate coexistence",92,1.18
+15216,CCIPUG,16,"Professions focus, some graduate coexistence",155,2
+15216,CCIPUG,17,"Professions focus, high graduate coexistence",25,0.32
+15216,CCIPUG,0,Not classified,149,1.92
+15216,CCIPUG,-1,"Not applicable, graduate institution",20,0.26
+15216,CCIPUG,-2,"Not applicable, special focus institution",819,10.54
+15216,CCIPUG,-3,"Not applicable, not in Carnegie universe (not accredited or nondegree-granting)",3286,42.3
+15217,CCIPGRAD,1,Single postbaccalaureate (education),69,0.89
+15217,CCIPGRAD,2,Single postbaccalaureate (business),56,0.72
+15217,CCIPGRAD,3,Single postbaccalaureate (other field),51,0.66
+15217,CCIPGRAD,4,Postbaccalaureate comprehensive,109,1.4
+15217,CCIPGRAD,5,"Postbaccalaureate, arts & sciences dominant",22,0.28
+15217,CCIPGRAD,6,Postbaccalaureate with arts & sciences (education dominant),130,1.67
+15217,CCIPGRAD,7,Postbaccalaureate with arts & sciences (business dominant),86,1.11
+15217,CCIPGRAD,8,Postbaccalaureate with arts & sciences (other dominant fields),77,0.99
+15217,CCIPGRAD,9,Postbaccalaureate professional (education dominant),115,1.48
+15217,CCIPGRAD,10,Postbaccalaureate professional (business dominant),106,1.36
+15217,CCIPGRAD,11,Postbaccalaureate professional (other dominant fields),79,1.02
+15217,CCIPGRAD,12,Single doctoral (education),55,0.71
+15217,CCIPGRAD,13,Single doctoral (other field),58,0.75
+15217,CCIPGRAD,14,Comprehensive doctoral with medical/veterinary,84,1.08
+15217,CCIPGRAD,15,Comprehensive doctoral (no medical/veterinary),79,1.02
+15217,CCIPGRAD,16,"Doctoral, humanities/social sciences dominant",5,0.06
+15217,CCIPGRAD,17,STEM dominant,48,0.62
+15217,CCIPGRAD,18,"Doctoral, professional dominant",121,1.56
+15217,CCIPGRAD,-1,Not applicable,2314,29.79
+15217,CCIPGRAD,-2,"Not applicable, special focus institution",819,10.54
+15217,CCIPGRAD,-3,"Not applicable, not in Carnegie universe (not accredited or nondegree-granting)",3286,42.3
+15218,CCUGPROF,1,Higher part-time two-year,432,5.56
+15218,CCUGPROF,2,Mixed part/full-time two-year,504,6.49
+15218,CCUGPROF,3,Medium full-time two-year,344,4.43
+15218,CCUGPROF,4,Higher full-time two-year,463,5.96
+15218,CCUGPROF,5,Higher part-time four-year,226,2.91
+15218,CCUGPROF,6,"Medium full-time four-year, inclusive",206,2.65
+15218,CCUGPROF,7,"Medium full-time four-year, selective, lower transfer-in",37,0.48
+15218,CCUGPROF,8,"Medium full-time four-year, selective, higher transfer-in",114,1.47
+15218,CCUGPROF,9,"Full-time four-year, inclusive",412,5.3
+15218,CCUGPROF,10,"Full-time four-year, selective, lower transfer-in",282,3.63
+15218,CCUGPROF,11,"Full-time four-year, selective, higher transfer-in",284,3.66
+15218,CCUGPROF,12,"Full-time four-year, more selective, lower transfer-in",272,3.5
+15218,CCUGPROF,13,"Full-time four-year, more selective, higher transfer-in",66,0.85
+15218,CCUGPROF,0,Not classified,1,0.01
+15218,CCUGPROF,-1,Not applicable,21,0.27
+15218,CCUGPROF,-2,"Not applicable, special focus institution",819,10.54
+15218,CCUGPROF,-3,"Not applicable, not in Carnegie universe (not accredited or nondegree-granting)",3286,42.3
+15219,CCENRPRF,1,Exclusively undergraduate two-year,1638,21.08
+15219,CCENRPRF,2,Exclusively undergraduate four-year,697,8.97
+15219,CCENRPRF,3,Very high undergraduate,772,9.94
+15219,CCENRPRF,4,High undergraduate,600,7.72
+15219,CCENRPRF,5,Majority undergraduate,316,4.07
+15219,CCENRPRF,6,Majority graduate/professional,205,2.64
+15219,CCENRPRF,7,Exclusively graduate/professional,254,3.27
+15219,CCENRPRF,0,Not classified,1,0.01
+15219,CCENRPRF,-3,"Not applicable, not in Carnegie universe (not accredited or nondegree-granting)",3286,42.3
+15220,CCSIZSET,1,Very small two-year,461,5.93
+15220,CCSIZSET,2,Small two-year,613,7.89
+15220,CCSIZSET,3,Medium two-year,376,4.84
+15220,CCSIZSET,4,Large two-year,194,2.5
+15220,CCSIZSET,5,Very large two-year,99,1.27
+15220,CCSIZSET,6,"Very small four-year, primarily nonresidential",260,3.35
+15220,CCSIZSET,7,"Very small four-year, primarily residential",68,0.88
+15220,CCSIZSET,8,"Very small four-year, highly residential",135,1.74
+15220,CCSIZSET,9,"Small four-year, primarily nonresidential",199,2.56
+15220,CCSIZSET,10,"Small four-year, primarily residential",163,2.1
+15220,CCSIZSET,11,"Small four-year, highly residential",320,4.12
+15220,CCSIZSET,12,"Medium four-year, primarily nonresidential",173,2.23
+15220,CCSIZSET,13,"Medium four-year, primarily residential",172,2.21
+15220,CCSIZSET,14,"Medium four-year, highly residential",132,1.7
+15220,CCSIZSET,15,"Large four-year, primarily nonresidential",134,1.72
+15220,CCSIZSET,16,"Large four-year, primarily residential",103,1.33
+15220,CCSIZSET,17,"Large four-year, highly residential",41,0.53
+15220,CCSIZSET,18,Exclusively graduate/professional,21,0.27
+15220,CCSIZSET,-2,"Not applicable, special focus institution",819,10.54
+15220,CCSIZSET,-3,"Not applicable, not in Carnegie universe (not accredited or nondegree-granting)",3286,42.3
+10171,CARNEGIE,15,Doctoral/Research Universities--Extensive,151,1.94
+10171,CARNEGIE,16,Doctoral/Research Universities--Intensive,108,1.39
+10171,CARNEGIE,21,Masters Colleges and Universities I,487,6.27
+10171,CARNEGIE,22,Masters Colleges and Universities II,110,1.42
+10171,CARNEGIE,31,Baccalaureate Colleges--Liberal Arts,220,2.83
+10171,CARNEGIE,32,Baccalaureate Colleges--General,308,3.96
+10171,CARNEGIE,33,Baccalaureate/Associates Colleges,52,0.67
+10171,CARNEGIE,40,Associates Colleges,1436,18.48
+10171,CARNEGIE,51,Theological seminaries and other specialized faith-related institutions,251,3.23
+10171,CARNEGIE,52,Medical schools and medical centers,45,0.58
+10171,CARNEGIE,53,Other separate health profession schools,79,1.02
+10171,CARNEGIE,54,Schools of engineering and technology,54,0.7
+10171,CARNEGIE,55,Schools of business and management,36,0.46
+10171,CARNEGIE,56,"Schools of art, music, and design",79,1.02
+10171,CARNEGIE,57,Schools of law,20,0.26
+10171,CARNEGIE,58,Teachers colleges,5,0.06
+10171,CARNEGIE,59,Other specialized institutions,53,0.68
+10171,CARNEGIE,60,Tribal colleges,31,0.4
+10171,CARNEGIE,-3,{Item not available},4244,54.63
+15225,LANDGRNT,1,Land Grant Institution,109,1.4
+15225,LANDGRNT,2,Not a Land Grant Institution,7660,98.6
+23357,INSTSIZE,1,"Under 1,000",4876,62.76
+23357,INSTSIZE,2,"1,000 - 4,999",1687,21.71
+23357,INSTSIZE,3,"5,000 - 9,999",515,6.63
+23357,INSTSIZE,4,"10,000 - 19,999",360,4.63
+23357,INSTSIZE,5,"20,000 and above",232,2.99
+23357,INSTSIZE,-1,Not reported,5,0.06
+23357,INSTSIZE,-2,Not applicable,94,1.21
+16086,CBSA,10100,"Aberdeen, SD Micro Area",2,0.03
+16086,CBSA,10140,"Aberdeen, WA Micro Area",1,0.01
+16086,CBSA,10180,"Abilene, TX Metro Area",5,0.06
+16086,CBSA,10220,"Ada, OK Micro Area",2,0.03
+16086,CBSA,10300,"Adrian, MI Micro Area",2,0.03
+16086,CBSA,10380,"Aguadilla-Isabela, PR Metro Area",15,0.19
+16086,CBSA,10420,"Akron, OH Metro Area",22,0.28
+16086,CBSA,10460,"Alamogordo, NM Micro Area",2,0.03
+16086,CBSA,10500,"Albany, GA Metro Area",3,0.04
+16086,CBSA,10540,"Albany, OR Metro Area",1,0.01
+16086,CBSA,10580,"Albany-Schenectady-Troy, NY Metro Area",37,0.48
+16086,CBSA,10620,"Albemarle, NC Micro Area",2,0.03
+16086,CBSA,10700,"Albertville, AL Micro Area",2,0.03
+16086,CBSA,10740,"Albuquerque, NM Metro Area",19,0.24
+16086,CBSA,10780,"Alexandria, LA Metro Area",6,0.08
+16086,CBSA,10820,"Alexandria, MN Micro Area",1,0.01
+16086,CBSA,10900,"Allentown-Bethlehem-Easton, PA-NJ Metro Area",21,0.27
+16086,CBSA,10940,"Alma, MI Micro Area",1,0.01
+16086,CBSA,10980,"Alpena, MI Micro Area",1,0.01
+16086,CBSA,11020,"Altoona, PA Metro Area",5,0.06
+16086,CBSA,11060,"Altus, OK Micro Area",2,0.03
+16086,CBSA,11100,"Amarillo, TX Metro Area",6,0.08
+16086,CBSA,11140,"Americus, GA Micro Area",2,0.03
+16086,CBSA,11180,"Ames, IA Metro Area",2,0.03
+16086,CBSA,11220,"Amsterdam, NY Micro Area",2,0.03
+16086,CBSA,11260,"Anchorage, AK Metro Area",5,0.06
+16086,CBSA,11420,"Angola, IN Micro Area",1,0.01
+16086,CBSA,11460,"Ann Arbor, MI Metro Area",8,0.1
+16086,CBSA,11500,"Anniston-Oxford-Jacksonville, AL Metro Area",1,0.01
+16086,CBSA,11540,"Appleton, WI Metro Area",6,0.08
+16086,CBSA,11620,"Ardmore, OK Micro Area",1,0.01
+16086,CBSA,11640,"Arecibo, PR Metro Area",11,0.14
+16086,CBSA,11660,"Arkadelphia, AR Micro Area",3,0.04
+16086,CBSA,11680,"Arkansas City-Winfield, KS Micro Area",2,0.03
+16086,CBSA,11700,"Asheville, NC Metro Area",11,0.14
+16086,CBSA,11740,"Ashland, OH Micro Area",2,0.03
+16086,CBSA,11780,"Ashtabula, OH Micro Area",2,0.03
+16086,CBSA,11820,"Astoria, OR Micro Area",1,0.01
+16086,CBSA,11860,"Atchison, KS Micro Area",1,0.01
+16086,CBSA,11900,"Athens, OH Micro Area",3,0.04
+16086,CBSA,11940,"Athens, TN Micro Area",2,0.03
+16086,CBSA,11980,"Athens, TX Micro Area",1,0.01
+16086,CBSA,12020,"Athens-Clarke County, GA Metro Area",3,0.04
+16086,CBSA,12060,"Atlanta-Sandy Springs-Roswell, GA Metro Area",101,1.3
+16086,CBSA,12100,"Atlantic City-Hammonton, NJ Metro Area",7,0.09
+16086,CBSA,12180,"Auburn, NY Micro Area",3,0.04
+16086,CBSA,12220,"Auburn-Opelika, AL Metro Area",1,0.01
+16086,CBSA,12260,"Augusta-Richmond County, GA-SC Metro Area",18,0.23
+16086,CBSA,12300,"Augusta-Waterville, ME Micro Area",5,0.06
+16086,CBSA,12380,"Austin, MN Micro Area",1,0.01
+16086,CBSA,12420,"Austin-Round Rock, TX Metro Area",43,0.55
+16086,CBSA,12460,"Bainbridge, GA Micro Area",1,0.01
+16086,CBSA,12540,"Bakersfield, CA Metro Area",10,0.13
+16086,CBSA,12580,"Baltimore-Columbia-Towson, MD Metro Area",50,0.64
+16086,CBSA,12620,"Bangor, ME Metro Area",7,0.09
+16086,CBSA,12660,"Baraboo, WI Micro Area",1,0.01
+16086,CBSA,12700,"Barnstable Town, MA Metro Area",5,0.06
+16086,CBSA,12740,"Barre, VT Micro Area",5,0.06
+16086,CBSA,12780,"Bartlesville, OK Micro Area",2,0.03
+16086,CBSA,12860,"Batavia, NY Micro Area",3,0.04
+16086,CBSA,12900,"Batesville, AR Micro Area",2,0.03
+16086,CBSA,12940,"Baton Rouge, LA Metro Area",31,0.4
+16086,CBSA,12980,"Battle Creek, MI Metro Area",5,0.06
+16086,CBSA,13020,"Bay City, MI Metro Area",3,0.04
+16086,CBSA,13140,"Beaumont-Port Arthur, TX Metro Area",8,0.1
+16086,CBSA,13180,"Beaver Dam, WI Micro Area",1,0.01
+16086,CBSA,13220,"Beckley, WV Metro Area",7,0.09
+16086,CBSA,13300,"Beeville, TX Micro Area",1,0.01
+16086,CBSA,13340,"Bellefontaine, OH Micro Area",1,0.01
+16086,CBSA,13380,"Bellingham, WA Metro Area",6,0.08
+16086,CBSA,13420,"Bemidji, MN Micro Area",3,0.04
+16086,CBSA,13460,"Bend-Redmond, OR Metro Area",4,0.05
+16086,CBSA,13540,"Bennington, VT Micro Area",2,0.03
+16086,CBSA,13620,"Berlin, NH-VT Micro Area",1,0.01
+16086,CBSA,13660,"Big Rapids, MI Micro Area",1,0.01
+16086,CBSA,13700,"Big Spring, TX Micro Area",2,0.03
+16086,CBSA,13720,"Big Stone Gap, VA Micro Area",2,0.03
+16086,CBSA,13740,"Billings, MT Metro Area",3,0.04
+16086,CBSA,13780,"Binghamton, NY Metro Area",6,0.08
+16086,CBSA,13820,"Birmingham-Hoover, AL Metro Area",20,0.26
+16086,CBSA,13900,"Bismarck, ND Metro Area",7,0.09
+16086,CBSA,13940,"Blackfoot, ID Micro Area",1,0.01
+16086,CBSA,13980,"Blacksburg-Christiansburg-Radford, VA Metro Area",4,0.05
+16086,CBSA,14010,"Bloomington, IL Metro Area",5,0.06
+16086,CBSA,14020,"Bloomington, IN Metro Area",2,0.03
+16086,CBSA,14100,"Bloomsburg-Berwick, PA Metro Area",1,0.01
+16086,CBSA,14140,"Bluefield, WV-VA Micro Area",6,0.08
+16086,CBSA,14180,"Blytheville, AR Micro Area",1,0.01
+16086,CBSA,14220,"Bogalusa, LA Micro Area",1,0.01
+16086,CBSA,14260,"Boise City, ID Metro Area",21,0.27
+16086,CBSA,14380,"Boone, NC Micro Area",2,0.03
+16086,CBSA,14420,"Borger, TX Micro Area",1,0.01
+16086,CBSA,14460,"Boston-Cambridge-Newton, MA-NH Metro Area",134,1.72
+16086,CBSA,14500,"Boulder, CO Metro Area",9,0.12
+16086,CBSA,14540,"Bowling Green, KY Metro Area",7,0.09
+16086,CBSA,14580,"Bozeman, MT Micro Area",4,0.05
+16086,CBSA,14620,"Bradford, PA Micro Area",1,0.01
+16086,CBSA,14660,"Brainerd, MN Micro Area",2,0.03
+16086,CBSA,14700,"Branson, MO Micro Area",1,0.01
+16086,CBSA,14740,"Bremerton-Silverdale, WA Metro Area",3,0.04
+16086,CBSA,14780,"Brenham, TX Micro Area",1,0.01
+16086,CBSA,14820,"Brevard, NC Micro Area",1,0.01
+16086,CBSA,14860,"Bridgeport-Stamford-Norwalk, CT Metro Area",20,0.26
+16086,CBSA,15100,"Brookings, SD Micro Area",1,0.01
+16086,CBSA,15180,"Brownsville-Harlingen, TX Metro Area",9,0.12
+16086,CBSA,15220,"Brownwood, TX Micro Area",1,0.01
+16086,CBSA,15260,"Brunswick, GA Metro Area",1,0.01
+16086,CBSA,15380,"Buffalo-Cheektowaga-Niagara Falls, NY Metro Area",31,0.4
+16086,CBSA,15420,"Burley, ID Micro Area",1,0.01
+16086,CBSA,15460,"Burlington, IA-IL Micro Area",1,0.01
+16086,CBSA,15500,"Burlington, NC Metro Area",2,0.03
+16086,CBSA,15540,"Burlington-South Burlington, VT Metro Area",8,0.1
+16086,CBSA,15580,"Butte-Silver Bow, MT Micro Area",3,0.04
+16086,CBSA,15620,"Cadillac, MI Micro Area",2,0.03
+16086,CBSA,15680,"California-Lexington Park, MD Metro Area",2,0.03
+16086,CBSA,15740,"Cambridge, OH Micro Area",1,0.01
+16086,CBSA,15780,"Camden, AR Micro Area",1,0.01
+16086,CBSA,15820,"Campbellsville, KY Micro Area",1,0.01
+16086,CBSA,15900,"Canton, IL Micro Area",3,0.04
+16086,CBSA,15940,"Canton-Massillon, OH Metro Area",13,0.17
+16086,CBSA,15980,"Cape Coral-Fort Myers, FL Metro Area",13,0.17
+16086,CBSA,16020,"Cape Girardeau, MO-IL Metro Area",6,0.08
+16086,CBSA,16060,"Carbondale-Marion, IL Metro Area",3,0.04
+16086,CBSA,16100,"Carlsbad-Artesia, NM Micro Area",1,0.01
+16086,CBSA,16180,"Carson City, NV Metro Area",2,0.03
+16086,CBSA,16220,"Casper, WY Metro Area",1,0.01
+16086,CBSA,16260,"Cedar City, UT Micro Area",4,0.05
+16086,CBSA,16300,"Cedar Rapids, IA Metro Area",10,0.13
+16086,CBSA,16380,"Celina, OH Micro Area",1,0.01
+16086,CBSA,16500,"Centralia, WA Micro Area",1,0.01
+16086,CBSA,16540,"Chambersburg-Waynesboro, PA Metro Area",4,0.05
+16086,CBSA,16580,"Champaign-Urbana, IL Metro Area",5,0.06
+16086,CBSA,16620,"Charleston, WV Metro Area",11,0.14
+16086,CBSA,16660,"Charleston-Mattoon, IL Micro Area",2,0.03
+16086,CBSA,16700,"Charleston-North Charleston, SC Metro Area",16,0.21
+16086,CBSA,16740,"Charlotte-Concord-Gastonia, NC-SC Metro Area",47,0.6
+16086,CBSA,16820,"Charlottesville, VA Metro Area",3,0.04
+16086,CBSA,16860,"Chattanooga, TN-GA Metro Area",12,0.15
+16086,CBSA,16940,"Cheyenne, WY Metro Area",4,0.05
+16086,CBSA,16980,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",236,3.04
+16086,CBSA,17020,"Chico, CA Metro Area",2,0.03
+16086,CBSA,17060,"Chillicothe, OH Micro Area",3,0.04
+16086,CBSA,17140,"Cincinnati, OH-KY-IN Metro Area",66,0.85
+16086,CBSA,17200,"Claremont-Lebanon, NH-VT Micro Area",8,0.1
+16086,CBSA,17220,"Clarksburg, WV Micro Area",5,0.06
+16086,CBSA,17260,"Clarksdale, MS Micro Area",1,0.01
+16086,CBSA,17300,"Clarksville, TN-KY Metro Area",7,0.09
+16086,CBSA,17380,"Cleveland, MS Micro Area",1,0.01
+16086,CBSA,17420,"Cleveland, TN Metro Area",5,0.06
+16086,CBSA,17460,"Cleveland-Elyria, OH Metro Area",64,0.82
+16086,CBSA,17540,"Clinton, IA Micro Area",1,0.01
+16086,CBSA,17580,"Clovis, NM Micro Area",1,0.01
+16086,CBSA,17620,"Coamo, PR Micro Area",1,0.01
+16086,CBSA,17660,"Coeur d'Alene, ID Metro Area",2,0.03
+16086,CBSA,17700,"Coffeyville, KS Micro Area",2,0.03
+16086,CBSA,17740,"Coldwater, MI Micro Area",1,0.01
+16086,CBSA,17780,"College Station-Bryan, TX Metro Area",5,0.06
+16086,CBSA,17820,"Colorado Springs, CO Metro Area",25,0.32
+16086,CBSA,17860,"Columbia, MO Metro Area",7,0.09
+16086,CBSA,17900,"Columbia, SC Metro Area",23,0.3
+16086,CBSA,17980,"Columbus, GA-AL Metro Area",9,0.12
+16086,CBSA,18060,"Columbus, MS Micro Area",1,0.01
+16086,CBSA,18140,"Columbus, OH Metro Area",59,0.76
+16086,CBSA,18180,"Concord, NH Micro Area",7,0.09
+16086,CBSA,18260,"Cookeville, TN Micro Area",5,0.06
+16086,CBSA,18300,"Coos Bay, OR Micro Area",1,0.01
+16086,CBSA,18420,"Corinth, MS Micro Area",1,0.01
+16086,CBSA,18460,"Cornelia, GA Micro Area",2,0.03
+16086,CBSA,18500,"Corning, NY Micro Area",3,0.04
+16086,CBSA,18580,"Corpus Christi, TX Metro Area",8,0.1
+16086,CBSA,18620,"Corsicana, TX Micro Area",1,0.01
+16086,CBSA,18660,"Cortland, NY Micro Area",1,0.01
+16086,CBSA,18700,"Corvallis, OR Metro Area",2,0.03
+16086,CBSA,18820,"Crawfordsville, IN Micro Area",1,0.01
+16086,CBSA,18880,"Crestview-Fort Walton Beach-Destin, FL Metro Area",3,0.04
+16086,CBSA,18900,"Crossville, TN Micro Area",2,0.03
+16086,CBSA,18980,"Cullman, AL Micro Area",1,0.01
+16086,CBSA,19000,"Cullowhee, NC Micro Area",2,0.03
+16086,CBSA,19060,"Cumberland, MD-WV Metro Area",5,0.06
+16086,CBSA,19100,"Dallas-Fort Worth-Arlington, TX Metro Area",129,1.66
+16086,CBSA,19140,"Dalton, GA Metro Area",2,0.03
+16086,CBSA,19180,"Danville, IL Metro Area",3,0.04
+16086,CBSA,19220,"Danville, KY Micro Area",1,0.01
+16086,CBSA,19260,"Danville, VA Micro Area",4,0.05
+16086,CBSA,19300,"Daphne-Fairhope-Foley, AL Metro Area",4,0.05
+16086,CBSA,19340,"Davenport-Moline-Rock Island, IA-IL Metro Area",13,0.17
+16086,CBSA,19380,"Dayton, OH Metro Area",40,0.51
+16086,CBSA,19420,"Dayton, TN Micro Area",2,0.03
+16086,CBSA,19500,"Decatur, IL Metro Area",4,0.05
+16086,CBSA,19580,"Defiance, OH Micro Area",1,0.01
+16086,CBSA,19660,"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",9,0.12
+16086,CBSA,19740,"Denver-Aurora-Lakewood, CO Metro Area",79,1.02
+16086,CBSA,19780,"Des Moines-West Des Moines, IA Metro Area",17,0.22
+16086,CBSA,19820,"Detroit-Warren-Dearborn, MI Metro Area",85,1.09
+16086,CBSA,19860,"Dickinson, ND Micro Area",1,0.01
+16086,CBSA,19940,"Dixon, IL Micro Area",1,0.01
+16086,CBSA,19980,"Dodge City, KS Micro Area",1,0.01
+16086,CBSA,20020,"Dothan, AL Metro Area",1,0.01
+16086,CBSA,20060,"Douglas, GA Micro Area",2,0.03
+16086,CBSA,20100,"Dover, DE Metro Area",5,0.06
+16086,CBSA,20140,"Dublin, GA Micro Area",1,0.01
+16086,CBSA,20180,"DuBois, PA Micro Area",5,0.06
+16086,CBSA,20220,"Dubuque, IA Metro Area",7,0.09
+16086,CBSA,20260,"Duluth, MN-WI Metro Area",12,0.15
+16086,CBSA,20340,"Duncan, OK Micro Area",1,0.01
+16086,CBSA,20380,"Dunn, NC Micro Area",2,0.03
+16086,CBSA,20420,"Durango, CO Micro Area",1,0.01
+16086,CBSA,20460,"Durant, OK Micro Area",3,0.04
+16086,CBSA,20500,"Durham-Chapel Hill, NC Metro Area",17,0.22
+16086,CBSA,20540,"Dyersburg, TN Micro Area",3,0.04
+16086,CBSA,20580,"Eagle Pass, TX Micro Area",1,0.01
+16086,CBSA,20700,"East Stroudsburg, PA Metro Area",3,0.04
+16086,CBSA,20740,"Eau Claire, WI Metro Area",4,0.05
+16086,CBSA,20900,"El Campo, TX Micro Area",1,0.01
+16086,CBSA,20940,"El Centro, CA Metro Area",4,0.05
+16086,CBSA,20980,"El Dorado, AR Micro Area",3,0.04
+16086,CBSA,21020,"Elizabeth City, NC Micro Area",3,0.04
+16086,CBSA,21060,"Elizabethtown-Fort Knox, KY Metro Area",3,0.04
+16086,CBSA,21140,"Elkhart-Goshen, IN Metro Area",2,0.03
+16086,CBSA,21180,"Elkins, WV Micro Area",1,0.01
+16086,CBSA,21220,"Elko, NV Micro Area",1,0.01
+16086,CBSA,21260,"Ellensburg, WA Micro Area",1,0.01
+16086,CBSA,21300,"Elmira, NY Metro Area",3,0.04
+16086,CBSA,21340,"El Paso, TX Metro Area",18,0.23
+16086,CBSA,21380,"Emporia, KS Micro Area",2,0.03
+16086,CBSA,21420,"Enid, OK Micro Area",2,0.03
+16086,CBSA,21460,"Enterprise, AL Micro Area",1,0.01
+16086,CBSA,21500,"Erie, PA Metro Area",12,0.15
+16086,CBSA,21540,"Escanaba, MI Micro Area",2,0.03
+16086,CBSA,21580,"Española, NM Micro Area",1,0.01
+16086,CBSA,21660,"Eugene, OR Metro Area",7,0.09
+16086,CBSA,21700,"Eureka-Arcata-Fortuna, CA Micro Area",4,0.05
+16086,CBSA,21780,"Evansville, IN-KY Metro Area",8,0.1
+16086,CBSA,21820,"Fairbanks, AK Metro Area",2,0.03
+16086,CBSA,21840,"Fairfield, IA Micro Area",1,0.01
+16086,CBSA,21900,"Fairmont, WV Micro Area",3,0.04
+16086,CBSA,22020,"Fargo, ND-MN Metro Area",10,0.13
+16086,CBSA,22060,"Faribault-Northfield, MN Micro Area",2,0.03
+16086,CBSA,22100,"Farmington, MO Micro Area",2,0.03
+16086,CBSA,22140,"Farmington, NM Metro Area",1,0.01
+16086,CBSA,22180,"Fayetteville, NC Metro Area",8,0.1
+16086,CBSA,22220,"Fayetteville-Springdale-Rogers, AR-MO Metro Area",11,0.14
+16086,CBSA,22260,"Fergus Falls, MN Micro Area",1,0.01
+16086,CBSA,22300,"Findlay, OH Micro Area",4,0.05
+16086,CBSA,22380,"Flagstaff, AZ Metro Area",4,0.05
+16086,CBSA,22420,"Flint, MI Metro Area",11,0.14
+16086,CBSA,22500,"Florence, SC Metro Area",6,0.08
+16086,CBSA,22520,"Florence-Muscle Shoals, AL Metro Area",3,0.04
+16086,CBSA,22540,"Fond du Lac, WI Metro Area",3,0.04
+16086,CBSA,22580,"Forest City, NC Micro Area",1,0.01
+16086,CBSA,22620,"Forrest City, AR Micro Area",2,0.03
+16086,CBSA,22660,"Fort Collins, CO Metro Area",7,0.09
+16086,CBSA,22700,"Fort Dodge, IA Micro Area",2,0.03
+16086,CBSA,22780,"Fort Leonard Wood, MO Micro Area",2,0.03
+16086,CBSA,22800,"Fort Madison-Keokuk, IA-IL-MO Micro Area",1,0.01
+16086,CBSA,22820,"Fort Morgan, CO Micro Area",1,0.01
+16086,CBSA,22900,"Fort Smith, AR-OK Metro Area",7,0.09
+16086,CBSA,23060,"Fort Wayne, IN Metro Area",13,0.17
+16086,CBSA,23180,"Frankfort, KY Micro Area",1,0.01
+16086,CBSA,23300,"Freeport, IL Micro Area",1,0.01
+16086,CBSA,23340,"Fremont, NE Micro Area",2,0.03
+16086,CBSA,23380,"Fremont, OH Micro Area",2,0.03
+16086,CBSA,23420,"Fresno, CA Metro Area",24,0.31
+16086,CBSA,23460,"Gadsden, AL Metro Area",1,0.01
+16086,CBSA,23500,"Gaffney, SC Micro Area",1,0.01
+16086,CBSA,23540,"Gainesville, FL Metro Area",9,0.12
+16086,CBSA,23580,"Gainesville, GA Metro Area",5,0.06
+16086,CBSA,23620,"Gainesville, TX Micro Area",1,0.01
+16086,CBSA,23660,"Galesburg, IL Micro Area",2,0.03
+16086,CBSA,23700,"Gallup, NM Micro Area",2,0.03
+16086,CBSA,23780,"Garden City, KS Micro Area",1,0.01
+16086,CBSA,23900,"Gettysburg, PA Metro Area",2,0.03
+16086,CBSA,23980,"Glasgow, KY Micro Area",1,0.01
+16086,CBSA,24020,"Glens Falls, NY Metro Area",3,0.04
+16086,CBSA,24060,"Glenwood Springs, CO Micro Area",2,0.03
+16086,CBSA,24140,"Goldsboro, NC Metro Area",3,0.04
+16086,CBSA,24220,"Grand Forks, ND-MN Metro Area",3,0.04
+16086,CBSA,24260,"Grand Island, NE Metro Area",1,0.01
+16086,CBSA,24300,"Grand Junction, CO Metro Area",3,0.04
+16086,CBSA,24340,"Grand Rapids-Wyoming, MI Metro Area",24,0.31
+16086,CBSA,24380,"Grants, NM Micro Area",1,0.01
+16086,CBSA,24420,"Grants Pass, OR Metro Area",2,0.03
+16086,CBSA,24460,"Great Bend, KS Micro Area",1,0.01
+16086,CBSA,24500,"Great Falls, MT Metro Area",3,0.04
+16086,CBSA,24540,"Greeley, CO Metro Area",4,0.05
+16086,CBSA,24580,"Green Bay, WI Metro Area",9,0.12
+16086,CBSA,24620,"Greeneville, TN Micro Area",1,0.01
+16086,CBSA,24640,"Greenfield Town, MA Micro Area",3,0.04
+16086,CBSA,24660,"Greensboro-High Point, NC Metro Area",19,0.24
+16086,CBSA,24740,"Greenville, MS Micro Area",1,0.01
+16086,CBSA,24780,"Greenville, NC Metro Area",5,0.06
+16086,CBSA,24860,"Greenville-Anderson-Mauldin, SC Metro Area",17,0.22
+16086,CBSA,24900,"Greenwood, MS Micro Area",1,0.01
+16086,CBSA,24940,"Greenwood, SC Micro Area",4,0.05
+16086,CBSA,24980,"Grenada, MS Micro Area",1,0.01
+16086,CBSA,25020,"Guayama, PR Metro Area",5,0.06
+16086,CBSA,25060,"Gulfport-Biloxi-Pascagoula, MS Metro Area",6,0.08
+16086,CBSA,25100,"Guymon, OK Micro Area",1,0.01
+16086,CBSA,25180,"Hagerstown-Martinsburg, MD-WV Metro Area",7,0.09
+16086,CBSA,25220,"Hammond, LA Metro Area",2,0.03
+16086,CBSA,25260,"Hanford-Corcoran, CA Metro Area",2,0.03
+16086,CBSA,25300,"Hannibal, MO Micro Area",1,0.01
+16086,CBSA,25420,"Harrisburg-Carlisle, PA Metro Area",17,0.22
+16086,CBSA,25460,"Harrison, AR Micro Area",1,0.01
+16086,CBSA,25500,"Harrisonburg, VA Metro Area",3,0.04
+16086,CBSA,25540,"Hartford-West Hartford-East Hartford, CT Metro Area",36,0.46
+16086,CBSA,25580,"Hastings, NE Micro Area",1,0.01
+16086,CBSA,25620,"Hattiesburg, MS Metro Area",5,0.06
+16086,CBSA,25700,"Hays, KS Micro Area",2,0.03
+16086,CBSA,25720,"Heber, UT Micro Area",1,0.01
+16086,CBSA,25740,"Helena, MT Micro Area",2,0.03
+16086,CBSA,25760,"Helena-West Helena, AR Micro Area",1,0.01
+16086,CBSA,25780,"Henderson, NC Micro Area",1,0.01
+16086,CBSA,25840,"Hermiston-Pendleton, OR Micro Area",1,0.01
+16086,CBSA,25860,"Hickory-Lenoir-Morganton, NC Metro Area",4,0.05
+16086,CBSA,25880,"Hillsdale, MI Micro Area",1,0.01
+16086,CBSA,25900,"Hilo, HI Micro Area",4,0.05
+16086,CBSA,25940,"Hilton Head Island-Bluffton-Beaufort, SC Metro Area",2,0.03
+16086,CBSA,26020,"Hobbs, NM Micro Area",2,0.03
+16086,CBSA,26140,"Homosassa Springs, FL Metro Area",1,0.01
+16086,CBSA,26300,"Hot Springs, AR Metro Area",2,0.03
+16086,CBSA,26340,"Houghton, MI Micro Area",2,0.03
+16086,CBSA,26380,"Houma-Thibodaux, LA Metro Area",6,0.08
+16086,CBSA,26420,"Houston-The Woodlands-Sugar Land, TX Metro Area",92,1.18
+16086,CBSA,26460,"Hudson, NY Micro Area",1,0.01
+16086,CBSA,26500,"Huntingdon, PA Micro Area",3,0.04
+16086,CBSA,26540,"Huntington, IN Micro Area",1,0.01
+16086,CBSA,26580,"Huntington-Ashland, WV-KY-OH Metro Area",13,0.17
+16086,CBSA,26620,"Huntsville, AL Metro Area",11,0.14
+16086,CBSA,26660,"Huntsville, TX Micro Area",2,0.03
+16086,CBSA,26740,"Hutchinson, KS Micro Area",2,0.03
+16086,CBSA,26820,"Idaho Falls, ID Metro Area",3,0.04
+16086,CBSA,26860,"Indiana, PA Micro Area",4,0.05
+16086,CBSA,26900,"Indianapolis-Carmel-Anderson, IN Metro Area",50,0.64
+16086,CBSA,26940,"Indianola, MS Micro Area",1,0.01
+16086,CBSA,26960,"Ionia, MI Micro Area",1,0.01
+16086,CBSA,26980,"Iowa City, IA Metro Area",4,0.05
+16086,CBSA,27060,"Ithaca, NY Metro Area",4,0.05
+16086,CBSA,27100,"Jackson, MI Metro Area",4,0.05
+16086,CBSA,27140,"Jackson, MS Metro Area",22,0.28
+16086,CBSA,27160,"Jackson, OH Micro Area",1,0.01
+16086,CBSA,27180,"Jackson, TN Metro Area",7,0.09
+16086,CBSA,27260,"Jacksonville, FL Metro Area",38,0.49
+16086,CBSA,27300,"Jacksonville, IL Micro Area",3,0.04
+16086,CBSA,27340,"Jacksonville, NC Metro Area",3,0.04
+16086,CBSA,27380,"Jacksonville, TX Micro Area",2,0.03
+16086,CBSA,27420,"Jamestown, ND Micro Area",1,0.01
+16086,CBSA,27460,"Jamestown-Dunkirk-Fredonia, NY Micro Area",3,0.04
+16086,CBSA,27500,"Janesville-Beloit, WI Metro Area",4,0.05
+16086,CBSA,27620,"Jefferson City, MO Metro Area",7,0.09
+16086,CBSA,27700,"Jesup, GA Micro Area",1,0.01
+16086,CBSA,27740,"Johnson City, TN Metro Area",6,0.08
+16086,CBSA,27780,"Johnstown, PA Metro Area",10,0.13
+16086,CBSA,27860,"Jonesboro, AR Metro Area",2,0.03
+16086,CBSA,27900,"Joplin, MO Metro Area",9,0.12
+16086,CBSA,27940,"Juneau, AK Micro Area",1,0.01
+16086,CBSA,27980,"Kahului-Wailuku-Lahaina, HI Metro Area",1,0.01
+16086,CBSA,28020,"Kalamazoo-Portage, MI Metro Area",8,0.1
+16086,CBSA,28060,"Kalispell, MT Micro Area",2,0.03
+16086,CBSA,28100,"Kankakee, IL Metro Area",3,0.04
+16086,CBSA,28140,"Kansas City, MO-KS Metro Area",71,0.91
+16086,CBSA,28180,"Kapaa, HI Micro Area",1,0.01
+16086,CBSA,28260,"Kearney, NE Micro Area",1,0.01
+16086,CBSA,28300,"Keene, NH Micro Area",4,0.05
+16086,CBSA,28380,"Kennett, MO Micro Area",1,0.01
+16086,CBSA,28420,"Kennewick-Richland, WA Metro Area",4,0.05
+16086,CBSA,28500,"Kerrville, TX Micro Area",2,0.03
+16086,CBSA,28580,"Key West, FL Micro Area",1,0.01
+16086,CBSA,28660,"Killeen-Temple, TX Metro Area",5,0.06
+16086,CBSA,28700,"Kingsport-Bristol-Bristol, TN-VA Metro Area",7,0.09
+16086,CBSA,28740,"Kingston, NY Metro Area",3,0.04
+16086,CBSA,28780,"Kingsville, TX Micro Area",1,0.01
+16086,CBSA,28820,"Kinston, NC Micro Area",1,0.01
+16086,CBSA,28860,"Kirksville, MO Micro Area",4,0.05
+16086,CBSA,28900,"Klamath Falls, OR Micro Area",3,0.04
+16086,CBSA,28940,"Knoxville, TN Metro Area",17,0.22
+16086,CBSA,29020,"Kokomo, IN Metro Area",4,0.05
+16086,CBSA,29060,"Laconia, NH Micro Area",2,0.03
+16086,CBSA,29100,"La Crosse-Onalaska, WI-MN Metro Area",5,0.06
+16086,CBSA,29180,"Lafayette, LA Metro Area",10,0.13
+16086,CBSA,29200,"Lafayette-West Lafayette, IN Metro Area",3,0.04
+16086,CBSA,29260,"La Grande, OR Micro Area",1,0.01
+16086,CBSA,29300,"LaGrange, GA Micro Area",2,0.03
+16086,CBSA,29340,"Lake Charles, LA Metro Area",6,0.08
+16086,CBSA,29380,"Lake City, FL Micro Area",1,0.01
+16086,CBSA,29420,"Lake Havasu City-Kingman, AZ Metro Area",3,0.04
+16086,CBSA,29460,"Lakeland-Winter Haven, FL Metro Area",11,0.14
+16086,CBSA,29540,"Lancaster, PA Metro Area",13,0.17
+16086,CBSA,29620,"Lansing-East Lansing, MI Metro Area",12,0.15
+16086,CBSA,29660,"Laramie, WY Micro Area",2,0.03
+16086,CBSA,29700,"Laredo, TX Metro Area",4,0.05
+16086,CBSA,29740,"Las Cruces, NM Metro Area",4,0.05
+16086,CBSA,29780,"Las Vegas, NM Micro Area",2,0.03
+16086,CBSA,29820,"Las Vegas-Henderson-Paradise, NV Metro Area",37,0.48
+16086,CBSA,29860,"Laurel, MS Micro Area",3,0.04
+16086,CBSA,29900,"Laurinburg, NC Micro Area",1,0.01
+16086,CBSA,29940,"Lawrence, KS Metro Area",6,0.08
+16086,CBSA,29980,"Lawrenceburg, TN Micro Area",1,0.01
+16086,CBSA,30020,"Lawton, OK Metro Area",4,0.05
+16086,CBSA,30060,"Lebanon, MO Micro Area",1,0.01
+16086,CBSA,30140,"Lebanon, PA Metro Area",4,0.05
+16086,CBSA,30220,"Levelland, TX Micro Area",1,0.01
+16086,CBSA,30260,"Lewisburg, PA Micro Area",2,0.03
+16086,CBSA,30300,"Lewiston, ID-WA Metro Area",3,0.04
+16086,CBSA,30340,"Lewiston-Auburn, ME Metro Area",4,0.05
+16086,CBSA,30380,"Lewistown, PA Micro Area",2,0.03
+16086,CBSA,30460,"Lexington-Fayette, KY Metro Area",19,0.24
+16086,CBSA,30580,"Liberal, KS Micro Area",1,0.01
+16086,CBSA,30620,"Lima, OH Metro Area",7,0.09
+16086,CBSA,30660,"Lincoln, IL Micro Area",2,0.03
+16086,CBSA,30700,"Lincoln, NE Metro Area",13,0.17
+16086,CBSA,30780,"Little Rock-North Little Rock-Conway, AR Metro Area",29,0.37
+16086,CBSA,30820,"Lock Haven, PA Micro Area",1,0.01
+16086,CBSA,30860,"Logan, UT-ID Metro Area",4,0.05
+16086,CBSA,30880,"Logan, WV Micro Area",2,0.03
+16086,CBSA,30940,"London, KY Micro Area",3,0.04
+16086,CBSA,30980,"Longview, TX Metro Area",2,0.03
+16086,CBSA,31020,"Longview, WA Metro Area",2,0.03
+16086,CBSA,31060,"Los Alamos, NM Micro Area",1,0.01
+16086,CBSA,31080,"Los Angeles-Long Beach-Anaheim, CA Metro Area",308,3.96
+16086,CBSA,31140,"Louisville/Jefferson County, KY-IN Metro Area",34,0.44
+16086,CBSA,31180,"Lubbock, TX Metro Area",8,0.1
+16086,CBSA,31220,"Ludington, MI Micro Area",1,0.01
+16086,CBSA,31260,"Lufkin, TX Micro Area",2,0.03
+16086,CBSA,31300,"Lumberton, NC Micro Area",2,0.03
+16086,CBSA,31340,"Lynchburg, VA Metro Area",9,0.12
+16086,CBSA,31380,"Macomb, IL Micro Area",1,0.01
+16086,CBSA,31420,"Macon, GA Metro Area",9,0.12
+16086,CBSA,31460,"Madera, CA Metro Area",1,0.01
+16086,CBSA,31500,"Madison, IN Micro Area",1,0.01
+16086,CBSA,31540,"Madison, WI Metro Area",17,0.22
+16086,CBSA,31580,"Madisonville, KY Micro Area",3,0.04
+16086,CBSA,31620,"Magnolia, AR Micro Area",1,0.01
+16086,CBSA,31660,"Malone, NY Micro Area",1,0.01
+16086,CBSA,31680,"Malvern, AR Micro Area",1,0.01
+16086,CBSA,31700,"Manchester-Nashua, NH Metro Area",17,0.22
+16086,CBSA,31740,"Manhattan, KS Metro Area",5,0.06
+16086,CBSA,31820,"Manitowoc, WI Micro Area",3,0.04
+16086,CBSA,31860,"Mankato-North Mankato, MN Metro Area",4,0.05
+16086,CBSA,31900,"Mansfield, OH Metro Area",5,0.06
+16086,CBSA,31930,"Marietta, OH Micro Area",3,0.04
+16086,CBSA,31940,"Marinette, WI-MI Micro Area",2,0.03
+16086,CBSA,31980,"Marion, IN Micro Area",3,0.04
+16086,CBSA,32000,"Marion, NC Micro Area",1,0.01
+16086,CBSA,32020,"Marion, OH Micro Area",3,0.04
+16086,CBSA,32100,"Marquette, MI Micro Area",1,0.01
+16086,CBSA,32140,"Marshall, MN Micro Area",1,0.01
+16086,CBSA,32180,"Marshall, MO Micro Area",2,0.03
+16086,CBSA,32220,"Marshall, TX Micro Area",3,0.04
+16086,CBSA,32260,"Marshalltown, IA Micro Area",2,0.03
+16086,CBSA,32280,"Martin, TN Micro Area",1,0.01
+16086,CBSA,32300,"Martinsville, VA Micro Area",1,0.01
+16086,CBSA,32340,"Maryville, MO Micro Area",3,0.04
+16086,CBSA,32380,"Mason City, IA Micro Area",3,0.04
+16086,CBSA,32420,"Mayagüez, PR Metro Area",7,0.09
+16086,CBSA,32460,"Mayfield, KY Micro Area",1,0.01
+16086,CBSA,32500,"Maysville, KY Micro Area",1,0.01
+16086,CBSA,32540,"McAlester, OK Micro Area",2,0.03
+16086,CBSA,32580,"McAllen-Edinburg-Mission, TX Metro Area",15,0.19
+16086,CBSA,32620,"McComb, MS Micro Area",1,0.01
+16086,CBSA,32660,"McMinnville, TN Micro Area",1,0.01
+16086,CBSA,32700,"McPherson, KS Micro Area",3,0.04
+16086,CBSA,32740,"Meadville, PA Micro Area",4,0.05
+16086,CBSA,32780,"Medford, OR Metro Area",3,0.04
+16086,CBSA,32820,"Memphis, TN-MS-AR Metro Area",41,0.53
+16086,CBSA,32860,"Menomonie, WI Micro Area",1,0.01
+16086,CBSA,32900,"Merced, CA Metro Area",4,0.05
+16086,CBSA,32940,"Meridian, MS Micro Area",2,0.03
+16086,CBSA,33060,"Miami, OK Micro Area",2,0.03
+16086,CBSA,33100,"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",147,1.89
+16086,CBSA,33140,"Michigan City-La Porte, IN Metro Area",2,0.03
+16086,CBSA,33180,"Middlesborough, KY Micro Area",2,0.03
+16086,CBSA,33220,"Midland, MI Metro Area",1,0.01
+16086,CBSA,33260,"Midland, TX Metro Area",1,0.01
+16086,CBSA,33300,"Milledgeville, GA Micro Area",3,0.04
+16086,CBSA,33340,"Milwaukee-Waukesha-West Allis, WI Metro Area",45,0.58
+16086,CBSA,33460,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",88,1.13
+16086,CBSA,33500,"Minot, ND Micro Area",2,0.03
+16086,CBSA,33540,"Missoula, MT Metro Area",2,0.03
+16086,CBSA,33580,"Mitchell, SD Micro Area",2,0.03
+16086,CBSA,33620,"Moberly, MO Micro Area",2,0.03
+16086,CBSA,33660,"Mobile, AL Metro Area",11,0.14
+16086,CBSA,33700,"Modesto, CA Metro Area",12,0.15
+16086,CBSA,33740,"Monroe, LA Metro Area",10,0.13
+16086,CBSA,33780,"Monroe, MI Metro Area",2,0.03
+16086,CBSA,33860,"Montgomery, AL Metro Area",13,0.17
+16086,CBSA,33980,"Morehead City, NC Micro Area",1,0.01
+16086,CBSA,34020,"Morgan City, LA Micro Area",1,0.01
+16086,CBSA,34060,"Morgantown, WV Metro Area",7,0.09
+16086,CBSA,34100,"Morristown, TN Metro Area",3,0.04
+16086,CBSA,34140,"Moscow, ID Micro Area",3,0.04
+16086,CBSA,34180,"Moses Lake, WA Micro Area",1,0.01
+16086,CBSA,34220,"Moultrie, GA Micro Area",1,0.01
+16086,CBSA,34260,"Mountain Home, AR Micro Area",2,0.03
+16086,CBSA,34340,"Mount Airy, NC Micro Area",1,0.01
+16086,CBSA,34380,"Mount Pleasant, MI Micro Area",3,0.04
+16086,CBSA,34420,"Mount Pleasant, TX Micro Area",1,0.01
+16086,CBSA,34460,"Mount Sterling, KY Micro Area",1,0.01
+16086,CBSA,34500,"Mount Vernon, IL Micro Area",1,0.01
+16086,CBSA,34540,"Mount Vernon, OH Micro Area",3,0.04
+16086,CBSA,34580,"Mount Vernon-Anacortes, WA Metro Area",2,0.03
+16086,CBSA,34620,"Muncie, IN Metro Area",1,0.01
+16086,CBSA,34660,"Murray, KY Micro Area",2,0.03
+16086,CBSA,34740,"Muskegon, MI Metro Area",4,0.05
+16086,CBSA,34780,"Muskogee, OK Micro Area",4,0.05
+16086,CBSA,34820,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC Metro Area",8,0.1
+16086,CBSA,34860,"Nacogdoches, TX Micro Area",1,0.01
+16086,CBSA,34900,"Napa, CA Metro Area",3,0.04
+16086,CBSA,34940,"Naples-Immokalee-Marco Island, FL Metro Area",6,0.08
+16086,CBSA,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",56,0.72
+16086,CBSA,35020,"Natchez, MS-LA Micro Area",1,0.01
+16086,CBSA,35060,"Natchitoches, LA Micro Area",1,0.01
+16086,CBSA,35100,"New Bern, NC Metro Area",2,0.03
+16086,CBSA,35140,"Newberry, SC Micro Area",1,0.01
+16086,CBSA,35260,"New Castle, PA Micro Area",6,0.08
+16086,CBSA,35300,"New Haven-Milford, CT Metro Area",29,0.37
+16086,CBSA,35380,"New Orleans-Metairie, LA Metro Area",31,0.4
+16086,CBSA,35420,"New Philadelphia-Dover, OH Micro Area",2,0.03
+16086,CBSA,35440,"Newport, OR Micro Area",2,0.03
+16086,CBSA,35580,"New Ulm, MN Micro Area",1,0.01
+16086,CBSA,35620,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",416,5.35
+16086,CBSA,35660,"Niles-Benton Harbor, MI Metro Area",3,0.04
+16086,CBSA,35740,"Norfolk, NE Micro Area",1,0.01
+16086,CBSA,35820,"North Platte, NE Micro Area",1,0.01
+16086,CBSA,35840,"North Port-Sarasota-Bradenton, FL Metro Area",14,0.18
+16086,CBSA,35900,"North Wilkesboro, NC Micro Area",1,0.01
+16086,CBSA,35940,"Norwalk, OH Micro Area",1,0.01
+16086,CBSA,35980,"Norwich-New London, CT Metro Area",10,0.13
+16086,CBSA,36020,"Oak Harbor, WA Micro Area",1,0.01
+16086,CBSA,36100,"Ocala, FL Metro Area",4,0.05
+16086,CBSA,36220,"Odessa, TX Metro Area",3,0.04
+16086,CBSA,36260,"Ogden-Clearfield, UT Metro Area",11,0.14
+16086,CBSA,36300,"Ogdensburg-Massena, NY Micro Area",4,0.05
+16086,CBSA,36340,"Oil City, PA Micro Area",2,0.03
+16086,CBSA,36420,"Oklahoma City, OK Metro Area",42,0.54
+16086,CBSA,36460,"Olean, NY Micro Area",4,0.05
+16086,CBSA,36500,"Olympia-Tumwater, WA Metro Area",3,0.04
+16086,CBSA,36540,"Omaha-Council Bluffs, NE-IA Metro Area",24,0.31
+16086,CBSA,36580,"Oneonta, NY Micro Area",3,0.04
+16086,CBSA,36620,"Ontario, OR-ID Micro Area",1,0.01
+16086,CBSA,36660,"Opelousas, LA Micro Area",2,0.03
+16086,CBSA,36700,"Orangeburg, SC Micro Area",3,0.04
+16086,CBSA,36740,"Orlando-Kissimmee-Sanford, FL Metro Area",50,0.64
+16086,CBSA,36780,"Oshkosh-Neenah, WI Metro Area",1,0.01
+16086,CBSA,36820,"Oskaloosa, IA Micro Area",1,0.01
+16086,CBSA,36840,"Ottawa, KS Micro Area",2,0.03
+16086,CBSA,36860,"Ottawa-Peru, IL Micro Area",2,0.03
+16086,CBSA,36900,"Ottumwa, IA Micro Area",2,0.03
+16086,CBSA,36980,"Owensboro, KY Metro Area",4,0.05
+16086,CBSA,37020,"Owosso, MI Micro Area",1,0.01
+16086,CBSA,37060,"Oxford, MS Micro Area",1,0.01
+16086,CBSA,37100,"Oxnard-Thousand Oaks-Ventura, CA Metro Area",17,0.22
+16086,CBSA,37120,"Ozark, AL Micro Area",1,0.01
+16086,CBSA,37140,"Paducah, KY-IL Micro Area",2,0.03
+16086,CBSA,37260,"Palatka, FL Micro Area",1,0.01
+16086,CBSA,37340,"Palm Bay-Melbourne-Titusville, FL Metro Area",7,0.09
+16086,CBSA,37460,"Panama City, FL Metro Area",3,0.04
+16086,CBSA,37500,"Paragould, AR Micro Area",1,0.01
+16086,CBSA,37540,"Paris, TN Micro Area",1,0.01
+16086,CBSA,37580,"Paris, TX Micro Area",1,0.01
+16086,CBSA,37620,"Parkersburg-Vienna, WV Metro Area",6,0.08
+16086,CBSA,37660,"Parsons, KS Micro Area",1,0.01
+16086,CBSA,37860,"Pensacola-Ferry Pass-Brent, FL Metro Area",9,0.12
+16086,CBSA,37900,"Peoria, IL Metro Area",10,0.13
+16086,CBSA,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",162,2.09
+16086,CBSA,38060,"Phoenix-Mesa-Scottsdale, AZ Metro Area",104,1.34
+16086,CBSA,38100,"Picayune, MS Micro Area",1,0.01
+16086,CBSA,38220,"Pine Bluff, AR Metro Area",4,0.05
+16086,CBSA,38240,"Pinehurst-Southern Pines, NC Micro Area",1,0.01
+16086,CBSA,38260,"Pittsburg, KS Micro Area",1,0.01
+16086,CBSA,38300,"Pittsburgh, PA Metro Area",84,1.08
+16086,CBSA,38340,"Pittsfield, MA Metro Area",6,0.08
+16086,CBSA,38380,"Plainview, TX Micro Area",1,0.01
+16086,CBSA,38420,"Platteville, WI Micro Area",2,0.03
+16086,CBSA,38460,"Plattsburgh, NY Micro Area",4,0.05
+16086,CBSA,38500,"Plymouth, IN Micro Area",1,0.01
+16086,CBSA,38540,"Pocatello, ID Metro Area",2,0.03
+16086,CBSA,38580,"Point Pleasant, WV-OH Micro Area",3,0.04
+16086,CBSA,38620,"Ponca City, OK Micro Area",3,0.04
+16086,CBSA,38660,"Ponce, PR Metro Area",16,0.21
+16086,CBSA,38700,"Pontiac, IL Micro Area",1,0.01
+16086,CBSA,38740,"Poplar Bluff, MO Micro Area",2,0.03
+16086,CBSA,38780,"Portales, NM Micro Area",1,0.01
+16086,CBSA,38820,"Port Angeles, WA Micro Area",2,0.03
+16086,CBSA,38860,"Portland-South Portland, ME Metro Area",17,0.22
+16086,CBSA,38900,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",61,0.79
+16086,CBSA,38940,"Port St. Lucie, FL Metro Area",5,0.06
+16086,CBSA,39020,"Portsmouth, OH Micro Area",4,0.05
+16086,CBSA,39060,"Pottsville, PA Micro Area",5,0.06
+16086,CBSA,39140,"Prescott, AZ Metro Area",5,0.06
+16086,CBSA,39300,"Providence-Warwick, RI-MA Metro Area",37,0.48
+16086,CBSA,39340,"Provo-Orem, UT Metro Area",18,0.23
+16086,CBSA,39380,"Pueblo, CO Metro Area",2,0.03
+16086,CBSA,39420,"Pullman, WA Micro Area",1,0.01
+16086,CBSA,39460,"Punta Gorda, FL Metro Area",1,0.01
+16086,CBSA,39500,"Quincy, IL-MO Micro Area",8,0.1
+16086,CBSA,39540,"Racine, WI Metro Area",2,0.03
+16086,CBSA,39580,"Raleigh, NC Metro Area",21,0.27
+16086,CBSA,39660,"Rapid City, SD Metro Area",6,0.08
+16086,CBSA,39740,"Reading, PA Metro Area",10,0.13
+16086,CBSA,39820,"Redding, CA Metro Area",4,0.05
+16086,CBSA,39900,"Reno, NV Metro Area",13,0.17
+16086,CBSA,39940,"Rexburg, ID Micro Area",3,0.04
+16086,CBSA,39980,"Richmond, IN Micro Area",4,0.05
+16086,CBSA,40060,"Richmond, VA Metro Area",26,0.33
+16086,CBSA,40080,"Richmond-Berea, KY Micro Area",2,0.03
+16086,CBSA,40140,"Riverside-San Bernardino-Ontario, CA Metro Area",77,0.99
+16086,CBSA,40180,"Riverton, WY Micro Area",1,0.01
+16086,CBSA,40220,"Roanoke, VA Metro Area",11,0.14
+16086,CBSA,40260,"Roanoke Rapids, NC Micro Area",1,0.01
+16086,CBSA,40340,"Rochester, MN Metro Area",10,0.13
+16086,CBSA,40380,"Rochester, NY Metro Area",29,0.37
+16086,CBSA,40420,"Rockford, IL Metro Area",8,0.1
+16086,CBSA,40460,"Rockingham, NC Micro Area",1,0.01
+16086,CBSA,40540,"Rock Springs, WY Micro Area",1,0.01
+16086,CBSA,40580,"Rocky Mount, NC Metro Area",3,0.04
+16086,CBSA,40620,"Rolla, MO Micro Area",4,0.05
+16086,CBSA,40660,"Rome, GA Metro Area",4,0.05
+16086,CBSA,40700,"Roseburg, OR Micro Area",2,0.03
+16086,CBSA,40740,"Roswell, NM Micro Area",2,0.03
+16086,CBSA,40780,"Russellville, AR Micro Area",2,0.03
+16086,CBSA,40820,"Ruston, LA Micro Area",3,0.04
+16086,CBSA,40860,"Rutland, VT Micro Area",3,0.04
+16086,CBSA,40900,"Sacramento--Roseville--Arden-Arcade, CA Metro Area",42,0.54
+16086,CBSA,40940,"Safford, AZ Micro Area",2,0.03
+16086,CBSA,40980,"Saginaw, MI Metro Area",3,0.04
+16086,CBSA,41060,"St. Cloud, MN Metro Area",8,0.1
+16086,CBSA,41100,"St. George, UT Metro Area",8,0.1
+16086,CBSA,41140,"St. Joseph, MO-KS Metro Area",5,0.06
+16086,CBSA,41180,"St. Louis, MO-IL Metro Area",86,1.11
+16086,CBSA,41400,"Salem, OH Micro Area",6,0.08
+16086,CBSA,41420,"Salem, OR Metro Area",10,0.13
+16086,CBSA,41460,"Salina, KS Micro Area",4,0.05
+16086,CBSA,41500,"Salinas, CA Metro Area",11,0.14
+16086,CBSA,41540,"Salisbury, MD-DE Metro Area",7,0.09
+16086,CBSA,41620,"Salt Lake City, UT Metro Area",40,0.51
+16086,CBSA,41660,"San Angelo, TX Metro Area",3,0.04
+16086,CBSA,41700,"San Antonio-New Braunfels, TX Metro Area",52,0.67
+16086,CBSA,41740,"San Diego-Carlsbad, CA Metro Area",71,0.91
+16086,CBSA,41780,"Sandusky, OH Micro Area",5,0.06
+16086,CBSA,41820,"Sanford, NC Micro Area",1,0.01
+16086,CBSA,41860,"San Francisco-Oakland-Hayward, CA Metro Area",97,1.25
+16086,CBSA,41900,"San Germán, PR Metro Area",1,0.01
+16086,CBSA,41940,"San Jose-Sunnyvale-Santa Clara, CA Metro Area",32,0.41
+16086,CBSA,41980,"San Juan-Carolina-Caguas, PR Metro Area",102,1.31
+16086,CBSA,42020,"San Luis Obispo-Paso Robles-Arroyo Grande, CA Metro Area",5,0.06
+16086,CBSA,42100,"Santa Cruz-Watsonville, CA Metro Area",6,0.08
+16086,CBSA,42140,"Santa Fe, NM Metro Area",7,0.09
+16086,CBSA,42200,"Santa Maria-Santa Barbara, CA Metro Area",13,0.17
+16086,CBSA,42220,"Santa Rosa, CA Metro Area",5,0.06
+16086,CBSA,42300,"Sault Ste. Marie, MI Micro Area",2,0.03
+16086,CBSA,42340,"Savannah, GA Metro Area",10,0.13
+16086,CBSA,42380,"Sayre, PA Micro Area",1,0.01
+16086,CBSA,42420,"Scottsbluff, NE Micro Area",4,0.05
+16086,CBSA,42460,"Scottsboro, AL Micro Area",1,0.01
+16086,CBSA,42540,"Scranton--Wilkes-Barre--Hazleton, PA Metro Area",24,0.31
+16086,CBSA,42620,"Searcy, AR Micro Area",3,0.04
+16086,CBSA,42660,"Seattle-Tacoma-Bellevue, WA Metro Area",68,0.88
+16086,CBSA,42700,"Sebring, FL Metro Area",1,0.01
+16086,CBSA,42740,"Sedalia, MO Micro Area",3,0.04
+16086,CBSA,42780,"Selinsgrove, PA Micro Area",2,0.03
+16086,CBSA,42820,"Selma, AL Micro Area",3,0.04
+16086,CBSA,42900,"Seneca Falls, NY Micro Area",1,0.01
+16086,CBSA,43020,"Shawano, WI Micro Area",1,0.01
+16086,CBSA,43060,"Shawnee, OK Micro Area",6,0.08
+16086,CBSA,43100,"Sheboygan, WI Metro Area",1,0.01
+16086,CBSA,43140,"Shelby, NC Micro Area",2,0.03
+16086,CBSA,43180,"Shelbyville, TN Micro Area",2,0.03
+16086,CBSA,43260,"Sheridan, WY Micro Area",1,0.01
+16086,CBSA,43300,"Sherman-Denison, TX Metro Area",3,0.04
+16086,CBSA,43320,"Show Low, AZ Micro Area",1,0.01
+16086,CBSA,43340,"Shreveport-Bossier City, LA Metro Area",17,0.22
+16086,CBSA,43420,"Sierra Vista-Douglas, AZ Metro Area",1,0.01
+16086,CBSA,43460,"Sikeston, MO Micro Area",1,0.01
+16086,CBSA,43500,"Silver City, NM Micro Area",1,0.01
+16086,CBSA,43580,"Sioux City, IA-NE-SD Metro Area",6,0.08
+16086,CBSA,43620,"Sioux Falls, SD Metro Area",11,0.14
+16086,CBSA,43660,"Snyder, TX Micro Area",1,0.01
+16086,CBSA,43700,"Somerset, KY Micro Area",1,0.01
+16086,CBSA,43740,"Somerset, PA Micro Area",1,0.01
+16086,CBSA,43760,"Sonora, CA Micro Area",1,0.01
+16086,CBSA,43780,"South Bend-Mishawaka, IN-MI Metro Area",10,0.13
+16086,CBSA,43900,"Spartanburg, SC Metro Area",11,0.14
+16086,CBSA,43940,"Spearfish, SD Micro Area",1,0.01
+16086,CBSA,44020,"Spirit Lake, IA Micro Area",1,0.01
+16086,CBSA,44060,"Spokane-Spokane Valley, WA Metro Area",14,0.18
+16086,CBSA,44100,"Springfield, IL Metro Area",8,0.1
+16086,CBSA,44140,"Springfield, MA Metro Area",20,0.26
+16086,CBSA,44180,"Springfield, MO Metro Area",26,0.33
+16086,CBSA,44220,"Springfield, OH Metro Area",3,0.04
+16086,CBSA,44260,"Starkville, MS Micro Area",1,0.01
+16086,CBSA,44300,"State College, PA Metro Area",5,0.06
+16086,CBSA,44340,"Statesboro, GA Micro Area",2,0.03
+16086,CBSA,44420,"Staunton-Waynesboro, VA Metro Area",4,0.05
+16086,CBSA,44500,"Stephenville, TX Micro Area",1,0.01
+16086,CBSA,44540,"Sterling, CO Micro Area",1,0.01
+16086,CBSA,44580,"Sterling, IL Micro Area",2,0.03
+16086,CBSA,44620,"Stevens Point, WI Micro Area",1,0.01
+16086,CBSA,44660,"Stillwater, OK Micro Area",4,0.05
+16086,CBSA,44700,"Stockton-Lodi, CA Metro Area",11,0.14
+16086,CBSA,44740,"Storm Lake, IA Micro Area",2,0.03
+16086,CBSA,44780,"Sturgis, MI Micro Area",1,0.01
+16086,CBSA,44940,"Sumter, SC Metro Area",4,0.05
+16086,CBSA,44980,"Sunbury, PA Micro Area",1,0.01
+16086,CBSA,45000,"Susanville, CA Micro Area",1,0.01
+16086,CBSA,45020,"Sweetwater, TX Micro Area",1,0.01
+16086,CBSA,45060,"Syracuse, NY Metro Area",21,0.27
+16086,CBSA,45140,"Tahlequah, OK Micro Area",3,0.04
+16086,CBSA,45180,"Talladega-Sylacauga, AL Micro Area",1,0.01
+16086,CBSA,45220,"Tallahassee, FL Metro Area",8,0.1
+16086,CBSA,45300,"Tampa-St. Petersburg-Clearwater, FL Metro Area",52,0.67
+16086,CBSA,45340,"Taos, NM Micro Area",1,0.01
+16086,CBSA,45460,"Terre Haute, IN Metro Area",4,0.05
+16086,CBSA,45500,"Texarkana, TX-AR Metro Area",3,0.04
+16086,CBSA,45520,"The Dalles, OR Micro Area",1,0.01
+16086,CBSA,45540,"The Villages, FL Metro Area",1,0.01
+16086,CBSA,45620,"Thomasville, GA Micro Area",2,0.03
+16086,CBSA,45660,"Tiffin, OH Micro Area",3,0.04
+16086,CBSA,45700,"Tifton, GA Micro Area",1,0.01
+16086,CBSA,45740,"Toccoa, GA Micro Area",1,0.01
+16086,CBSA,45780,"Toledo, OH Metro Area",22,0.28
+16086,CBSA,45820,"Topeka, KS Metro Area",7,0.09
+16086,CBSA,45860,"Torrington, CT Micro Area",1,0.01
+16086,CBSA,45900,"Traverse City, MI Micro Area",1,0.01
+16086,CBSA,45940,"Trenton, NJ Metro Area",11,0.14
+16086,CBSA,45980,"Troy, AL Micro Area",1,0.01
+16086,CBSA,46060,"Tucson, AZ Metro Area",24,0.31
+16086,CBSA,46100,"Tullahoma-Manchester, TN Micro Area",4,0.05
+16086,CBSA,46140,"Tulsa, OK Metro Area",38,0.49
+16086,CBSA,46180,"Tupelo, MS Micro Area",3,0.04
+16086,CBSA,46220,"Tuscaloosa, AL Metro Area",5,0.06
+16086,CBSA,46300,"Twin Falls, ID Micro Area",5,0.06
+16086,CBSA,46340,"Tyler, TX Metro Area",4,0.05
+16086,CBSA,46380,"Ukiah, CA Micro Area",2,0.03
+16086,CBSA,46500,"Urbana, OH Micro Area",1,0.01
+16086,CBSA,46520,"Urban Honolulu, HI Metro Area",22,0.28
+16086,CBSA,46540,"Utica-Rome, NY Metro Area",11,0.14
+16086,CBSA,46620,"Uvalde, TX Micro Area",1,0.01
+16086,CBSA,46660,"Valdosta, GA Metro Area",2,0.03
+16086,CBSA,46700,"Vallejo-Fairfield, CA Metro Area",7,0.09
+16086,CBSA,46780,"Van Wert, OH Micro Area",1,0.01
+16086,CBSA,46820,"Vermillion, SD Micro Area",1,0.01
+16086,CBSA,46900,"Vernon, TX Micro Area",1,0.01
+16086,CBSA,46980,"Vicksburg, MS Micro Area",1,0.01
+16086,CBSA,47020,"Victoria, TX Metro Area",5,0.06
+16086,CBSA,47080,"Vidalia, GA Micro Area",2,0.03
+16086,CBSA,47180,"Vincennes, IN Micro Area",3,0.04
+16086,CBSA,47220,"Vineland-Bridgeton, NJ Metro Area",1,0.01
+16086,CBSA,47260,"Virginia Beach-Norfolk-Newport News, VA-NC Metro Area",44,0.57
+16086,CBSA,47300,"Visalia-Porterville, CA Metro Area",9,0.12
+16086,CBSA,47340,"Wabash, IN Micro Area",1,0.01
+16086,CBSA,47380,"Waco, TX Metro Area",5,0.06
+16086,CBSA,47420,"Wahpeton, ND-MN Micro Area",1,0.01
+16086,CBSA,47460,"Walla Walla, WA Metro Area",3,0.04
+16086,CBSA,47580,"Warner Robins, GA Metro Area",3,0.04
+16086,CBSA,47660,"Warrensburg, MO Micro Area",2,0.03
+16086,CBSA,47700,"Warsaw, IN Micro Area",1,0.01
+16086,CBSA,47820,"Washington, NC Micro Area",1,0.01
+16086,CBSA,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",111,1.43
+16086,CBSA,47940,"Waterloo-Cedar Falls, IA Metro Area",7,0.09
+16086,CBSA,47980,"Watertown, SD Micro Area",1,0.01
+16086,CBSA,48020,"Watertown-Fort Atkinson, WI Micro Area",1,0.01
+16086,CBSA,48060,"Watertown-Fort Drum, NY Metro Area",2,0.03
+16086,CBSA,48140,"Wausau, WI Metro Area",3,0.04
+16086,CBSA,48180,"Waycross, GA Micro Area",2,0.03
+16086,CBSA,48220,"Weatherford, OK Micro Area",1,0.01
+16086,CBSA,48260,"Weirton-Steubenville, WV-OH Metro Area",5,0.06
+16086,CBSA,48300,"Wenatchee, WA Metro Area",2,0.03
+16086,CBSA,48460,"West Plains, MO Micro Area",2,0.03
+16086,CBSA,48540,"Wheeling, WV-OH Metro Area",8,0.1
+16086,CBSA,48580,"Whitewater-Elkhorn, WI Micro Area",1,0.01
+16086,CBSA,48620,"Wichita, KS Metro Area",19,0.24
+16086,CBSA,48660,"Wichita Falls, TX Metro Area",2,0.03
+16086,CBSA,48700,"Williamsport, PA Metro Area",5,0.06
+16086,CBSA,48780,"Williston, ND Micro Area",1,0.01
+16086,CBSA,48820,"Willmar, MN Micro Area",1,0.01
+16086,CBSA,48900,"Wilmington, NC Metro Area",4,0.05
+16086,CBSA,48940,"Wilmington, OH Micro Area",1,0.01
+16086,CBSA,48980,"Wilson, NC Micro Area",3,0.04
+16086,CBSA,49020,"Winchester, VA-WV Metro Area",2,0.03
+16086,CBSA,49100,"Winona, MN Micro Area",3,0.04
+16086,CBSA,49180,"Winston-Salem, NC Metro Area",11,0.14
+16086,CBSA,49220,"Wisconsin Rapids-Marshfield, WI Micro Area",1,0.01
+16086,CBSA,49260,"Woodward, OK Micro Area",2,0.03
+16086,CBSA,49300,"Wooster, OH Micro Area",4,0.05
+16086,CBSA,49340,"Worcester, MA-CT Metro Area",27,0.35
+16086,CBSA,49380,"Worthington, MN Micro Area",1,0.01
+16086,CBSA,49420,"Yakima, WA Metro Area",7,0.09
+16086,CBSA,49460,"Yankton, SD Micro Area",2,0.03
+16086,CBSA,49620,"York-Hanover, PA Metro Area",12,0.15
+16086,CBSA,49660,"Youngstown-Warren-Boardman, OH-PA Metro Area",20,0.26
+16086,CBSA,49700,"Yuba City, CA Metro Area",2,0.03
+16086,CBSA,49740,"Yuma, AZ Metro Area",1,0.01
+16086,CBSA,49780,"Zanesville, OH Micro Area",5,0.06
+16086,CBSA,-2,Not applicable,322,4.14
+16091,CBSATYPE,1,Metropolitan Statistical Area,6506,83.74
+16091,CBSATYPE,2,Micropolitan Statistical Area,750,9.65
+16091,CBSATYPE,-2,Not applicable,513,6.6
+16096,CSA,104,"Albany-Schenectady, NY CSA",43,0.55
+16096,CSA,106,"Albuquerque-Santa Fe-Las Vegas, NM CSA",31,0.4
+16096,CSA,108,"Amarillo-Borger, TX CSA",7,0.09
+16096,CSA,118,"Appleton-Oshkosh-Neenah, WI CSA",7,0.09
+16096,CSA,120,"Asheville-Brevard, NC CSA",12,0.15
+16096,CSA,122,"Atlanta--Athens-Clarke County--Sandy Springs, GA CSA",111,1.43
+16096,CSA,140,"Bend-Redmond-Prineville, OR CSA",4,0.05
+16096,CSA,142,"Birmingham-Hoover-Talladega, AL CSA",22,0.28
+16096,CSA,144,"Bloomington-Bedford, IN CSA",2,0.03
+16096,CSA,145,"Bloomington-Pontiac, IL CSA",6,0.08
+16096,CSA,146,"Bloomsburg-Berwick-Sunbury, PA CSA",6,0.08
+16096,CSA,147,"Boise City-Mountain Home-Ontario, ID-OR CSA",22,0.28
+16096,CSA,148,"Boston-Worcester-Providence, MA-RI-NH-CT CSA",229,2.95
+16096,CSA,150,"Bowling Green-Glasgow, KY CSA",8,0.1
+16096,CSA,154,"Brownsville-Harlingen-Raymondville, TX CSA",9,0.12
+16096,CSA,160,"Buffalo-Cheektowaga, NY CSA",35,0.45
+16096,CSA,162,"Cape Coral-Fort Myers-Naples, FL CSA",19,0.24
+16096,CSA,164,"Cape Girardeau-Sikeston, MO-IL CSA",7,0.09
+16096,CSA,168,"Cedar Rapids-Iowa City, IA CSA",14,0.18
+16096,CSA,170,"Charleston-Huntington-Ashland, WV-OH-KY CSA",30,0.39
+16096,CSA,172,"Charlotte-Concord, NC-SC CSA",51,0.66
+16096,CSA,174,"Chattanooga-Cleveland-Dalton, TN-GA-AL CSA",24,0.31
+16096,CSA,176,"Chicago-Naperville, IL-IN-WI CSA",243,3.13
+16096,CSA,178,"Cincinnati-Wilmington-Maysville, OH-KY-IN CSA",68,0.88
+16096,CSA,184,"Cleveland-Akron-Canton, OH CSA",109,1.4
+16096,CSA,185,"Cleveland-Indianola, MS CSA",2,0.03
+16096,CSA,188,"Clovis-Portales, NM CSA",2,0.03
+16096,CSA,190,"Columbia-Moberly-Mexico, MO CSA",9,0.12
+16096,CSA,192,"Columbia-Orangeburg-Newberry, SC CSA",27,0.35
+16096,CSA,194,"Columbus-Auburn-Opelika, GA-AL CSA",10,0.13
+16096,CSA,198,"Columbus-Marion-Zanesville, OH CSA",75,0.97
+16096,CSA,204,"Corpus Christi-Kingsville-Alice, TX CSA",9,0.12
+16096,CSA,206,"Dallas-Fort Worth, TX-OK CSA",138,1.78
+16096,CSA,209,"Davenport-Moline, IA-IL CSA",14,0.18
+16096,CSA,212,"Dayton-Springfield-Sidney, OH CSA",44,0.57
+16096,CSA,216,"Denver-Aurora, CO CSA",92,1.18
+16096,CSA,218,"Des Moines-Ames-West Des Moines, IA CSA",19,0.24
+16096,CSA,220,"Detroit-Warren-Ann Arbor, MI CSA",108,1.39
+16096,CSA,221,"Dixon-Sterling, IL CSA",3,0.04
+16096,CSA,222,"Dothan-Enterprise-Ozark, AL CSA",3,0.04
+16096,CSA,232,"Eau Claire-Menomonie, WI CSA",5,0.06
+16096,CSA,233,"Edwards-Glenwood Springs, CO CSA",2,0.03
+16096,CSA,236,"Elmira-Corning, NY CSA",6,0.08
+16096,CSA,238,"El Paso-Las Cruces, TX-NM CSA",22,0.28
+16096,CSA,240,"Erie-Meadville, PA CSA",16,0.21
+16096,CSA,244,"Fargo-Wahpeton, ND-MN CSA",11,0.14
+16096,CSA,246,"Fayetteville-Lumberton-Laurinburg, NC CSA",11,0.14
+16096,CSA,248,"Findlay-Tiffin, OH CSA",7,0.09
+16096,CSA,258,"Fort Wayne-Huntington-Auburn, IN CSA",15,0.19
+16096,CSA,260,"Fresno-Madera, CA CSA",25,0.32
+16096,CSA,264,"Gainesville-Lake City, FL CSA",10,0.13
+16096,CSA,266,"Grand Rapids-Wyoming-Muskegon, MI CSA",30,0.39
+16096,CSA,267,"Green Bay-Shawano, WI CSA",10,0.13
+16096,CSA,268,"Greensboro--Winston-Salem--High Point, NC CSA",33,0.42
+16096,CSA,273,"Greenville-Spartanburg-Anderson, SC CSA",33,0.42
+16096,CSA,274,"Greenville-Washington, NC CSA",6,0.08
+16096,CSA,276,"Harrisburg-York-Lebanon, PA CSA",35,0.45
+16096,CSA,277,"Harrisonburg-Staunton-Waynesboro, VA CSA",7,0.09
+16096,CSA,278,"Hartford-West Hartford, CT CSA",46,0.59
+16096,CSA,280,"Hickory-Lenoir, NC CSA",5,0.06
+16096,CSA,284,"Hot Springs-Malvern, AR CSA",3,0.04
+16096,CSA,288,"Houston-The Woodlands, TX CSA",96,1.24
+16096,CSA,290,"Huntsville-Decatur-Albertville, AL CSA",13,0.17
+16096,CSA,292,"Idaho Falls-Rexburg-Blackfoot, ID CSA",7,0.09
+16096,CSA,294,"Indianapolis-Carmel-Muncie, IN CSA",52,0.67
+16096,CSA,296,"Ithaca-Cortland, NY CSA",5,0.06
+16096,CSA,298,"Jackson-Vicksburg-Brookhaven, MS CSA",23,0.3
+16096,CSA,300,"Jacksonville-St. Marys-Palatka, FL-GA CSA",39,0.5
+16096,CSA,304,"Johnson City-Kingsport-Bristol, TN-VA CSA",13,0.17
+16096,CSA,306,"Johnstown-Somerset, PA CSA",11,0.14
+16096,CSA,308,"Jonesboro-Paragould, AR CSA",3,0.04
+16096,CSA,309,"Joplin-Miami, MO-OK CSA",11,0.14
+16096,CSA,310,"Kalamazoo-Battle Creek-Portage, MI CSA",14,0.18
+16096,CSA,312,"Kansas City-Overland Park-Kansas City, MO-KS CSA",87,1.12
+16096,CSA,314,"Knoxville-Morristown-Sevierville, TN CSA",20,0.26
+16096,CSA,316,"Kokomo-Peru, IN CSA",4,0.05
+16096,CSA,318,"Lafayette-Opelousas-Morgan City, LA CSA",13,0.17
+16096,CSA,320,"Lafayette-West Lafayette-Frankfort, IN CSA",3,0.04
+16096,CSA,330,"Lansing-East Lansing-Owosso, MI CSA",13,0.17
+16096,CSA,332,"Las Vegas-Henderson, NV-AZ CSA",40,0.51
+16096,CSA,336,"Lexington-Fayette--Richmond--Frankfort, KY CSA",23,0.3
+16096,CSA,338,"Lima-Van Wert-Celina, OH CSA",9,0.12
+16096,CSA,339,"Lincoln-Beatrice, NE CSA",13,0.17
+16096,CSA,340,"Little Rock-North Little Rock, AR CSA",36,0.46
+16096,CSA,346,"Longview-Marshall, TX CSA",5,0.06
+16096,CSA,348,"Los Angeles-Long Beach, CA CSA",402,5.17
+16096,CSA,350,"Louisville/Jefferson County--Elizabethtown--Madison, KY-IN CSA",38,0.49
+16096,CSA,352,"Lubbock-Levelland, TX CSA",9,0.12
+16096,CSA,356,"Macon-Warner Robins, GA CSA",12,0.15
+16096,CSA,357,"Madison-Janesville-Beloit, WI CSA",22,0.28
+16096,CSA,358,"Manhattan-Junction City, KS CSA",5,0.06
+16096,CSA,359,"Mankato-New Ulm-North Mankato, MN CSA",5,0.06
+16096,CSA,360,"Mansfield-Ashland-Bucyrus, OH CSA",7,0.09
+16096,CSA,362,"Martin-Union City, TN-KY CSA",1,0.01
+16096,CSA,364,"Mayagüez-San Germán, PR CSA",8,0.1
+16096,CSA,365,"McAllen-Edinburg, TX CSA",15,0.19
+16096,CSA,366,"Medford-Grants Pass, OR CSA",5,0.06
+16096,CSA,368,"Memphis-Forrest City, TN-MS-AR CSA",43,0.55
+16096,CSA,370,"Miami-Fort Lauderdale-Port St. Lucie, FL CSA",152,1.96
+16096,CSA,372,"Midland-Odessa, TX CSA",4,0.05
+16096,CSA,376,"Milwaukee-Racine-Waukesha, WI CSA",50,0.64
+16096,CSA,378,"Minneapolis-St. Paul, MN-WI CSA",98,1.26
+16096,CSA,380,"Mobile-Daphne-Fairhope, AL CSA",15,0.19
+16096,CSA,382,"Modesto-Merced, CA CSA",16,0.21
+16096,CSA,384,"Monroe-Ruston-Bastrop, LA CSA",13,0.17
+16096,CSA,390,"Morgantown-Fairmont, WV CSA",10,0.13
+16096,CSA,393,"Moses Lake-Othello, WA CSA",1,0.01
+16096,CSA,394,"Mount Pleasant-Alma, MI CSA",4,0.05
+16096,CSA,396,"Myrtle Beach-Conway, SC-NC CSA",8,0.1
+16096,CSA,400,"Nashville-Davidson--Murfreesboro, TN CSA",59,0.76
+16096,CSA,404,"New Bern-Morehead City, NC CSA",3,0.04
+16096,CSA,406,"New Orleans-Metairie-Hammond, LA-MS CSA",35,0.45
+16096,CSA,408,"New York-Newark, NY-NJ-CT-PA CSA",504,6.49
+16096,CSA,412,"North Port-Sarasota, FL CSA",15,0.19
+16096,CSA,416,"Oklahoma City-Shawnee, OK CSA",48,0.62
+16096,CSA,420,"Omaha-Council Bluffs-Fremont, NE-IA CSA",26,0.33
+16096,CSA,422,"Orlando-Deltona-Daytona Beach, FL CSA",60,0.77
+16096,CSA,424,"Paducah-Mayfield, KY-IL CSA",3,0.04
+16096,CSA,425,"Parkersburg-Marietta-Vienna, WV-OH CSA",9,0.12
+16096,CSA,426,"Peoria-Canton, IL CSA",13,0.17
+16096,CSA,428,"Philadelphia-Reading-Camden, PA-NJ-DE-MD CSA",185,2.38
+16096,CSA,430,"Pittsburgh-New Castle-Weirton, PA-OH-WV CSA",99,1.27
+16096,CSA,434,"Ponce-Coamo-Santa Isabel, PR CSA",17,0.22
+16096,CSA,438,"Portland-Lewiston-South Portland, ME CSA",21,0.27
+16096,CSA,440,"Portland-Vancouver-Salem, OR-WA CSA",76,0.98
+16096,CSA,444,"Pueblo-Cañon City, CO CSA",2,0.03
+16096,CSA,446,"Pullman-Moscow, WA-ID CSA",4,0.05
+16096,CSA,448,"Quincy-Hannibal, IL-MO CSA",9,0.12
+16096,CSA,450,"Raleigh-Durham-Chapel Hill, NC CSA",42,0.54
+16096,CSA,452,"Rapid City-Spearfish, SD CSA",7,0.09
+16096,CSA,454,"Redding-Red Bluff, CA CSA",4,0.05
+16096,CSA,456,"Reno-Carson City-Fernley, NV CSA",15,0.19
+16096,CSA,458,"Richmond-Connersville, IN CSA",4,0.05
+16096,CSA,462,"Rochester-Austin, MN CSA",11,0.14
+16096,CSA,464,"Rochester-Batavia-Seneca Falls, NY CSA",33,0.42
+16096,CSA,466,"Rockford-Freeport-Rochelle, IL CSA",9,0.12
+16096,CSA,468,"Rocky Mount-Wilson-Roanoke Rapids, NC CSA",7,0.09
+16096,CSA,470,"Rome-Summerville, GA CSA",4,0.05
+16096,CSA,472,"Sacramento-Roseville, CA CSA",44,0.57
+16096,CSA,474,"Saginaw-Midland-Bay City, MI CSA",7,0.09
+16096,CSA,476,"St. Louis-St. Charles-Farmington, MO-IL CSA",88,1.13
+16096,CSA,482,"Salt Lake City-Provo-Orem, UT CSA",70,0.9
+16096,CSA,488,"San Jose-San Francisco-Oakland, CA CSA",161,2.07
+16096,CSA,490,"San Juan-Carolina, PR CSA",118,1.52
+16096,CSA,496,"Savannah-Hinesville-Statesboro, GA CSA",12,0.15
+16096,CSA,500,"Seattle-Tacoma, WA CSA",78,1
+16096,CSA,512,"Sioux City-Vermillion, IA-SD-NE CSA",7,0.09
+16096,CSA,515,"South Bend-Elkhart-Mishawaka, IN-MI CSA",16,0.21
+16096,CSA,518,"Spokane-Spokane Valley-Coeur d'Alene, WA-ID CSA",16,0.21
+16096,CSA,520,"Springfield-Branson, MO CSA",27,0.35
+16096,CSA,521,"Springfield-Greenfield Town, MA CSA",23,0.3
+16096,CSA,522,"Springfield-Jacksonville-Lincoln, IL CSA",13,0.17
+16096,CSA,524,"State College-DuBois, PA CSA",10,0.13
+16096,CSA,532,"Syracuse-Auburn, NY CSA",24,0.31
+16096,CSA,533,"Tallahassee-Bainbridge, FL-GA CSA",9,0.12
+16096,CSA,534,"Toledo-Port Clinton, OH CSA",22,0.28
+16096,CSA,536,"Tucson-Nogales, AZ CSA",24,0.31
+16096,CSA,538,"Tulsa-Muskogee-Bartlesville, OK CSA",47,0.6
+16096,CSA,540,"Tyler-Jacksonville, TX CSA",6,0.08
+16096,CSA,544,"Victoria-Port Lavaca, TX CSA",5,0.06
+16096,CSA,545,"Virginia Beach-Norfolk, VA-NC CSA",47,0.6
+16096,CSA,546,"Visalia-Porterville-Hanford, CA CSA",11,0.14
+16096,CSA,548,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA CSA",176,2.27
+16096,CSA,554,"Wausau-Stevens Point-Wisconsin Rapids, WI CSA",5,0.06
+16096,CSA,556,"Wichita-Arkansas City-Winfield, KS CSA",21,0.27
+16096,CSA,558,"Williamsport-Lock Haven, PA CSA",6,0.08
+16096,CSA,566,"Youngstown-Warren, OH-PA CSA",26,0.33
+16096,CSA,-2,Not applicable,1818,23.4
+16099,NECTA,70600,"Augusta, ME Micropolitan NECTA",3,0.04
+16099,NECTA,70750,"Bangor, ME Metropolitan NECTA",7,0.09
+16099,NECTA,70900,"Barnstable Town, MA Metropolitan NECTA",5,0.06
+16099,NECTA,71050,"Barre, VT Micropolitan NECTA",4,0.05
+16099,NECTA,71350,"Bennington, VT Micropolitan NECTA",2,0.03
+16099,NECTA,71500,"Berlin, NH Micropolitan NECTA",1,0.01
+16099,NECTA,71650,"Boston-Cambridge-Nashua, MA-NH Metropolitan NECTA",139,1.79
+16099,NECTA,71950,"Bridgeport-Stamford-Norwalk, CT Metropolitan NECTA",19,0.24
+16099,NECTA,72250,"Brunswick, ME Micropolitan NECTA",1,0.01
+16099,NECTA,72400,"Burlington-South Burlington, VT Metropolitan NECTA",8,0.1
+16099,NECTA,72700,"Concord, NH Micropolitan NECTA",4,0.05
+16099,NECTA,72850,"Danbury, CT Metropolitan NECTA",3,0.04
+16099,NECTA,73050,"Dover-Durham, NH-ME Metropolitan NECTA",3,0.04
+16099,NECTA,73300,"Greenfield Town, MA Micropolitan NECTA",2,0.03
+16099,NECTA,73450,"Hartford-West Hartford-East Hartford, CT Metropolitan NECTA",35,0.45
+16099,NECTA,73750,"Keene, NH Micropolitan NECTA",3,0.04
