@@ -23,41 +23,15 @@ class Import
 		echo "<table border='1' style='width:50%'>";
 		echo "<tr>";
 			echo "<td>";
-			echo "<a href=".$data[0].">".$data[1]."</a>";
+			echo "<a href=?UNITID=".$data[0].">".$data[1]."</a>";
+			
+			//echo "$_GET[".$data."]";
   			//print_r($data[1]);
   			echo "</td>";
   		echo "</tr>";
 		}
 		fclose($datafile);
 		
-		/*
-		//imports varlist
- 	   	$varlist =file('varlist.csv');
-		$varlistfile = fopen('varlist.csv', 'r');
-		while (($varlist = fgetcsv($varlistfile)) !== FALSE) 
-		{
-  		print_r($varlist);
-		}
-		fclose($varlistfile);
-		
-		//imports description
- 	   	$description =file('description.csv');
-		$descriptionfile = fopen('description.csv', 'r');
-		while (($description = fgetcsv($descriptionfile)) !== FALSE) 
-		{
-  		print_r($description);
-		}
-		fclose($descriptionfile);
-
-		//imports frequencies
- 	   	$frequencies =file('frequencies.csv');
-		$frequenciesfile = fopen('frequencies.csv', 'r');
-		while (($frequencies = fgetcsv($frequenciesfile)) !== FALSE) 
-		{
-  		print_r($frequencies);
-		}
-		fclose($frequenciesfile);
-		*/
     }
 
 }
