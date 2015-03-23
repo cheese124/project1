@@ -23,7 +23,8 @@ class Import
 		echo "<table border='1' style='width:50%'>";
 		echo "<tr>";
 			echo "<td>";
-  			print_r($data[1]);
+			echo "<a href=".$data[0].">".$data[1]."</a>";
+  			//print_r($data[1]);
   			echo "</td>";
   		echo "</tr>";
 		}
