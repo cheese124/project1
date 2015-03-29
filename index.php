@@ -61,7 +61,7 @@ class Import
 			{
 				foreach ($result as $key2 => $value2)
 				{ 
-				//echo $key2;
+					//Replace the real values
 					if(($value1['varname'] == $key2) &($value1['codevalue'] == $value2))
 					{
 						$newvalue = $value1['valuelabel'];
@@ -72,10 +72,19 @@ class Import
 			}//dist forloop
 			
 			//print modified array
+			echo "<table border='1' style='width:100%' table-layout: fixed>";
 			foreach ($result as $key => $value) 
 			{
-    			echo "Key: $key; Value: $value<br />\n";
+				echo "<tr>";
+				echo "<td>";
+				echo "$key";
+				echo "</td>";
+				echo "<td>";
+				echo "$value";
+				echo "</td>";
+				echo "</tr>";
 			}
+			echo "</table>";
 			
 		} // else
 	}//constructor
