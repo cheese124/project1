@@ -12,7 +12,7 @@ class Import
     }
     protected function __construct()
     {
-		$datafile = fopen("test.csv","r");
+		$datafile = fopen("hd2013.csv","r");
 		$index = fgetcsv($datafile);
 		while(!feof($datafile))
 		{
