@@ -83,10 +83,26 @@ class Import
 			fclose($vfile);
 			
 			//print test data
-			foreach ($varlist_array as $key => $value) 
+			/*foreach ($varlist_array as $key => $value) 
 			{
-				echo "$key $value <br/>";
-			}
+				foreach ($value as $key2 => $value2) 
+				{
+					echo "$key2 $value2 <br/>";
+				}
+			}*/
+			foreach ($varlist_array as $key1 => $value1) 
+			{
+				foreach ($result as $key2 => $value2)
+				{ 
+					//Replace the real values
+					if($value1['varname'] == $key2)
+					{
+						$newkey = $value1['varTitle'];
+    					$result[$newkey] = $newvalue;
+    				}
+				}
+				
+			}//varlist forloop
 			
 			//print modified array
 			echo "<table border='1' style='width:100%' table-layout: fixed>";
