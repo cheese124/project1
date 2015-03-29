@@ -25,12 +25,12 @@ class Import
 		
 		if(!$_GET['page'])
 		{
-			foreach ($final_array as $key => $val) 
+			foreach ($final_array as $key => $value) 
 			{
 				echo "<table border='1' style='width:50%'>";
 				echo "<tr>";
 				echo "<td>";
-				echo '<a href="index.php?page='.$key.'">'.$val["INSTNM"].'</a><br>';
+				echo '<a href="index.php?page='.$key.'">'.$value["INSTNM"].'</a><br>';
 				echo "</td>";
 				echo "</tr>";
 				echo "</table>";
@@ -38,9 +38,15 @@ class Import
 		}
 		else
 		{
-		//var_dump($final_array);
 		$pagenum = $_GET['page'];
 		echo $pagenum;
+		$result = $final_array[$pagenum];
+		echo $result;
+		foreach ($result as $key => $value) 
+		{
+    		echo "Key: $key; Value: $value<br />\n";
+		}
+		//var_dump($final_array);
 		//$searchid = array_search ($pagenum ,$final_array);
 		//echo $searchid;
 		}
