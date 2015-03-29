@@ -40,15 +40,7 @@ class Import
 		{
 			//Prints raw data
 			$pagenum = $_GET['page'];
-			echo $pagenum;
 			$result = $hd2013_array[$pagenum];
-			echo $result.'<br />';
-			
-			foreach ($result as $key => $value) 
-			{
-    			echo "Key: $key; Value: $value<br />\n";
-			}
-			
 			
 			//inports frequencies
 			$ffile = fopen("dict.csv","r");
@@ -62,41 +54,22 @@ class Import
 			}
 			$frequencies_array = array_combine($fids, $fdata_array);
 			fclose($ffile);
-			
-			//$finalarray =[];
 			//list rows as an array
 			
 			//list the real value for each
 			foreach ($frequencies_array as $key1 => $value1) 
 			{
-			//echo '<br />';
-			//echo $value1['varname'].' '.$value1['codevalue'].'<br />';
-			//echo "Key1: $key1; Value1: $value1<br />\n";
 				foreach ($result as $key2 => $value2)
 				{ 
 				//echo $key2;
 					if(($value1['varname'] == $key2) &($value1['codevalue'] == $value2))
 					{
-						echo '<br />';
-						$newvalue =$value1['valuelabel'];
-    					echo $newvalue;
-    					$result[$key2] = [$key2 => $newvalue];
+						$newvalue = $value1['valuelabel'];
+    					$result[$key2] = $newvalue;
     				}
 				}
-				//printers values from rows
-				/*foreach ($value1 as $key2 => $value2) 
-				{
-    				echo "Key2: $key2; Value2: $value2<br />\n";
-    				
-    				//prints data results
-    				/*foreach ($result as $key3 => $value3) 
-					{
-    					if(($key3 == $value2))
-    					echo 'yay';
-					}
-					
-				}*/
-			}// frequencies for loop
+				
+			}//dist forloop
 			
 			//print modified array
 			foreach ($result as $key => $value) 
