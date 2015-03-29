@@ -25,16 +25,16 @@ class Import
 		
 		if(!$_GET['page'])
 		{
+		echo "<table border='1' style='width:50%'>";
 			foreach ($hd2013_array as $key => $value) 
 			{
-				echo "<table border='1' style='width:50%'>";
 				echo "<tr>";
 				echo "<td>";
 				echo '<a href="index.php?page='.$key.'">'.$value["INSTNM"].'</a><br>';
 				echo "</td>";
 				echo "</tr>";
-				echo "</table>";
 			}
+			echo "</table>";
 		}
 		else
 		{
@@ -81,15 +81,7 @@ class Import
 			}
 			$varlist_array = array_combine($vids, $vdata_array);
 			fclose($vfile);
-			
-			//print test data
-			/*foreach ($varlist_array as $key => $value) 
-			{
-				foreach ($value as $key2 => $value2) 
-				{
-					echo "$key2 $value2 <br/>";
-				}
-			}*/
+			//add full discriptions
 			foreach ($varlist_array as $key1 => $value1) 
 			{
 				foreach ($result as $key2 => $value2)
@@ -98,7 +90,7 @@ class Import
 					if($value1['varname'] == $key2)
 					{
 						$newkey = $value1['varTitle'];
-    					$result[$newkey] = $newvalue;
+    					$newresult[$newkey] = $value2;
     				}
 				}
 				
@@ -106,7 +98,7 @@ class Import
 			
 			//print modified array
 			echo "<table border='1' style='width:100%' table-layout: fixed>";
-			foreach ($result as $key => $value) 
+			foreach ($newresult as $key => $value) 
 			{
 				echo "<tr>";
 				echo "<td>";
