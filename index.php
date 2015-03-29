@@ -38,11 +38,11 @@ class Import
 		}
 		else
 		{
-			//Prints raw data
+			//Gets the page number
 			$pagenum = $_GET['page'];
 			$result = $hd2013_array[$pagenum];
 			
-			//inports frequencies
+			//inports dict
 			$ffile = fopen("dict.csv","r");
 			$findex = fgetcsv($ffile);
 			$i=0;
@@ -54,7 +54,6 @@ class Import
 			}
 			$frequencies_array = array_combine($fids, $fdata_array);
 			fclose($ffile);
-			//list rows as an array
 			
 			//list the real value for each
 			foreach ($frequencies_array as $key1 => $value1) 
@@ -70,6 +69,24 @@ class Import
 				}
 				
 			}//dist forloop
+			
+			//inports dict
+			$vfile = fopen("varlist.csv","r");
+			$vindex = fgetcsv($vfile);
+			while(!feof($vfile))
+			{
+				$vdata = fgetcsv($vfile);
+				$vids[] = $vdata[1]; 
+				$vdata_array[] = array_combine($vindex, $vdata);
+			}
+			$varlist_array = array_combine($vids, $vdata_array);
+			fclose($vfile);
+			
+			//print test data
+			foreach ($varlist_array as $key => $value) 
+			{
+				echo "$key $value <br/>";
+			}
 			
 			//print modified array
 			echo "<table border='1' style='width:100%' table-layout: fixed>";
